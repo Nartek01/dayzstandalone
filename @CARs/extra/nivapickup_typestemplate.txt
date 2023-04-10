@@ -1,0 +1,374 @@
+<!-- TYPES.XML TEMPLATE 26.09.2021 15:27:14,70 -->
+<types>
+	<type name="NivaPickup">
+		<nominal>0</nominal>
+		<lifetime>7776000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="NivaPickup_Doors_Driver">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="NivaPickup_Doors_coDriver">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="NivaPickup_Doors_hood">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="NivaPickup_Doors_trunk">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="NivaPickup_blue">
+		<nominal>0</nominal>
+		<lifetime>7776000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="NivaPickup_Doors_Driver_blue">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="NivaPickup_Doors_coDriver_blue">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="NivaPickup_Doors_hood_blue">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="NivaPickup_Doors_trunk_blue">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="NivaPickup_kamo">
+		<nominal>0</nominal>
+		<lifetime>7776000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="NivaPickup_Doors_Driver_kamo">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="NivaPickup_Doors_coDriver_kamo">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="NivaPickup_Doors_hood_kamo">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="NivaPickup_Doors_trunk_kamo">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="NivaPickup_red">
+		<nominal>0</nominal>
+		<lifetime>7776000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="NivaPickup_Doors_Driver_red">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="NivaPickup_Doors_coDriver_red">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="NivaPickup_Doors_hood_red">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="NivaPickup_Doors_trunk_red">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<!-- -->
+	<type name="NivaPickup_skul">
+		<nominal>0</nominal>
+		<lifetime>7776000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="NivaPickup_Doors_Driver_skul">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="NivaPickup_Doors_coDriver_skul">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="NivaPickup_Doors_hood_skul">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="NivaPickup_Doors_trunk_skul">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="NivaPickup_kamo2">
+		<nominal>0</nominal>
+		<lifetime>7776000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="NivaPickup_Doors_Driver_kamo2">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="NivaPickup_Doors_coDriver_kamo2">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="NivaPickup_Doors_hood_kamo2">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="NivaPickup_Doors_trunk_kamo2">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="NivaPickup_Wheel">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+	</type>
+	<type name="NivaPickup_Wheel_destroyed">
+		<nominal>0</nominal>
+		<lifetime>1800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="1" deloot="0" />
+		<category name="vehiclesparts" />
+	</type>
+</types>

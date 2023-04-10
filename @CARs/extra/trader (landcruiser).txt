@@ -1,0 +1,200 @@
+<Category> Land Cruiser
+		LandCruiser,							V,		80000,		15000
+		LandCruiser_blue,						V,		80000,		15000
+		LandCruiser_kamo,						V,		80000,		15000
+		LandCruiser_red,						V,		80000,		15000
+		LandCruiser_skul,						V,		80000,		15000
+		LandCruiser_white,						V,		80000,		15000
+		LandCruiser_kamo2,						V,		80000,		15000
+		
+<Category> Land Cruiser Parts
+		LandCruiser_Wheel,							*,		2500,	1100	
+		LandCruiser_Doors_Driver,					*,		300,	100
+		LandCruiser_Doors_Driver_blue,				*,		300,	100
+		LandCruiser_Doors_Driver_kamo,				*,		300,	100
+		LandCruiser_Doors_Driver_red,				*,		300,	100
+		LandCruiser_Doors_Driver_skul,				*,		300,	100
+		LandCruiser_Doors_Driver_white,				*,		300,	100
+		LandCruiser_Doors_Driver_kamo2,				*,		300,	100
+		LandCruiser_Doors_coDriver,					*,		300,	100
+		LandCruiser_Doors_coDriver_blue,			*,		300,	100
+		LandCruiser_Doors_coDriver_kamo,			*,		300,	100
+		LandCruiser_Doors_coDriver_red,				*,		300,	100
+		LandCruiser_Doors_coDriver_skul,			*,		300,	100
+		LandCruiser_Doors_coDriver_white,			*,		300,	100
+		LandCruiser_Doors_coDriver_kamo2,			*,		300,	100
+		LandCruiser_Doors_hood,						*,		300,	100
+		LandCruiser_Doors_hood_blue,				*,		300,	100
+		LandCruiser_Doors_hood_kamo,				*,		300,	100
+		LandCruiser_Doors_hood_red,					*,		300,	100
+		LandCruiser_Doors_hood_skul,				*,		300,	100
+		LandCruiser_Doors_hood_white,				*,		300,	100
+		LandCruiser_Doors_hood_kamo2,				*,		300,	100		
+		LandCruiser_Doors_cargo1,					*,		300,	100
+		LandCruiser_Doors_cargo1_blue,				*,		300,	100
+		LandCruiser_Doors_cargo1_kamo,				*,		300,	100
+		LandCruiser_Doors_cargo1_red,				*,		300,	100
+		LandCruiser_Doors_cargo1_skul,				*,		300,	100
+		LandCruiser_Doors_cargo1_white,				*,		300,	100
+		LandCruiser_Doors_cargo1_kamo2,				*,		300,	100
+		LandCruiser_Doors_cargo2,					*,		300,	100
+		LandCruiser_Doors_cargo2_blue,				*,		300,	100
+		LandCruiser_Doors_cargo2_kamo,				*,		300,	100
+		LandCruiser_Doors_cargo2_red,				*,		300,	100
+		LandCruiser_Doors_cargo2_skul,				*,		300,	100
+		LandCruiser_Doors_cargo2_white,				*,		300,	100
+		LandCruiser_Doors_cargo2_kamo2,				*,		300,	100
+		LandCruiser_Doors_cargo3,					*,		300,	100
+		LandCruiser_Doors_cargo3_blue,				*,		300,	100
+		LandCruiser_Doors_cargo3_kamo,				*,		300,	100
+		LandCruiser_Doors_cargo3_red,				*,		300,	100
+		LandCruiser_Doors_cargo3_skul,				*,		300,	100
+		LandCruiser_Doors_cargo3_white,				*,		300,	100
+		LandCruiser_Doors_cargo3_kamo2,				*,		300,	100
+		LandCruiser_Doors_cargo4,					*,		300,	100
+		LandCruiser_Doors_cargo4_blue,				*,		300,	100
+		LandCruiser_Doors_cargo4_kamo,				*,		300,	100
+		LandCruiser_Doors_cargo4_red,				*,		300,	100
+		LandCruiser_Doors_cargo4_skul,				*,		300,	100
+		LandCruiser_Doors_cargo4_white,				*,		300,	100
+		LandCruiser_Doors_cargo4_kamo2,				*,		300,	100
+		
+<VehicleParts> LandCruiser
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	LandCruiser_Doors_Driver
+	LandCruiser_Doors_coDriver
+	LandCruiser_Doors_hood
+	LandCruiser_Doors_cargo1
+	LandCruiser_Doors_cargo2
+	LandCruiser_Doors_cargo3
+	LandCruiser_Doors_cargo4
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	
+<VehicleParts> LandCruiser_blue
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	LandCruiser_Doors_Driver_blue
+	LandCruiser_Doors_coDriver_blue
+	LandCruiser_Doors_hood_blue
+	LandCruiser_Doors_cargo1_blue
+	LandCruiser_Doors_cargo2_blue
+	LandCruiser_Doors_cargo3_blue
+	LandCruiser_Doors_cargo4_blue
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	
+<VehicleParts> LandCruiser_kamo
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	LandCruiser_Doors_Driver_kamo
+	LandCruiser_Doors_coDriver_kamo
+	LandCruiser_Doors_hood_kamo
+	LandCruiser_Doors_cargo1_kamo
+	LandCruiser_Doors_cargo2_kamo
+	LandCruiser_Doors_cargo3_kamo
+	LandCruiser_Doors_cargo4_kamo
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	
+<VehicleParts> LandCruiser_red
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	LandCruiser_Doors_Driver_red
+	LandCruiser_Doors_coDriver_red
+	LandCruiser_Doors_hood_red
+	LandCruiser_Doors_cargo1_red
+	LandCruiser_Doors_cargo2_red
+	LandCruiser_Doors_cargo3_red
+	LandCruiser_Doors_cargo4_red
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	
+<VehicleParts> LandCruiser_skul
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	LandCruiser_Doors_Driver_skul
+	LandCruiser_Doors_coDriver_skul
+	LandCruiser_Doors_hood_skul
+	LandCruiser_Doors_cargo1_skul
+	LandCruiser_Doors_cargo2_skul
+	LandCruiser_Doors_cargo3_skul
+	LandCruiser_Doors_cargo4_skul
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	
+<VehicleParts> LandCruiser_white
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	LandCruiser_Doors_Driver_white
+	LandCruiser_Doors_coDriver_white
+	LandCruiser_Doors_hood_white
+	LandCruiser_Doors_cargo1_white
+	LandCruiser_Doors_cargo2_white
+	LandCruiser_Doors_cargo3_white
+	LandCruiser_Doors_cargo4_white
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	
+<VehicleParts> LandCruiser_kamo2
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	LandCruiser_Doors_Driver_kamo2
+	LandCruiser_Doors_coDriver_kamo2
+	LandCruiser_Doors_hood_kamo2
+	LandCruiser_Doors_cargo1_kamo2
+	LandCruiser_Doors_cargo2_kamo2
+	LandCruiser_Doors_cargo3_kamo2
+	LandCruiser_Doors_cargo4_kamo2
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel
+	LandCruiser_Wheel	

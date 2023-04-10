@@ -1,0 +1,589 @@
+<!-- TYPES.XML TEMPLATE 15.11.2021 20:57:48,39 -->
+<types>
+	<type name="TLC_200">
+		<nominal>0</nominal>
+		<lifetime>7776000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="TLC_200_Doors_Driver">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_coDriver">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_hood">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_cargo1">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_cargo2">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_cargo3">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_cargo4">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_blue">
+		<nominal>0</nominal>
+		<lifetime>7776000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="TLC_200_Doors_Driver_blue">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_coDriver_blue">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_hood_blue">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_cargo1_blue">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_cargo2_blue">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_cargo3_blue">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_cargo4_blue">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_kamo">
+		<nominal>0</nominal>
+		<lifetime>7776000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="TLC_200_Doors_Driver_kamo">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_coDriver_kamo">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_hood_kamo">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_cargo1_kamo">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_cargo2_kamo">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_cargo3_kamo">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_cargo4_kamo">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_red">
+		<nominal>0</nominal>
+		<lifetime>7776000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="TLC_200_Doors_Driver_red">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_coDriver_red">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_hood_red">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_cargo1_red">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_cargo2_red">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_cargo3_red">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_cargo4_red">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_white">
+		<nominal>0</nominal>
+		<lifetime>7776000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="TLC_200_Doors_Driver_white">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_coDriver_white">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_hood_white">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_cargo1_white">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_cargo2_white">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_cargo3_white">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_cargo4_white">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_kamo2">
+		<nominal>0</nominal>
+		<lifetime>7776000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="TLC_200_Doors_Driver_kamo2">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_coDriver_kamo2">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_hood_kamo2">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_cargo1_kamo2">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_cargo2_kamo2">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_cargo3_kamo2">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Doors_cargo4_kamo2">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="TLC_200_Wheel">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+	</type>
+	<type name="TLC_200_Wheel_destroyed">
+		<nominal>0</nominal>
+		<lifetime>1800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="1" deloot="0" />
+		<category name="vehiclesparts" />
+	</type>
+</types>

@@ -1,0 +1,42 @@
+		//-------------------
+/* 1 */ Camper 
+		//-------------------
+		Camper_Doors_Driver
+		Camper_Doors_coDriver		
+		Camper_Doors_hood
+
+		//-------------------
+		
+/* 2 */ Camper_blue
+		//-------------------
+		Camper_Doors_Driver_blue
+		Camper_Doors_coDriver_blue
+		Camper_Doors_hood_blue
+
+		//-------------------
+		
+/* 3 */ Camper_red  
+		//-------------------
+		Camper_Doors_Driver_red
+		Camper_Doors_coDriver_red
+		Camper_Doors_hood_red
+		//-------------------
+		Camper_Doors_cargo1
+		//-------------------		
+		
+		Camper_Wheel
+		Camper_Wheel
+		Camper_Wheel
+		Camper_Wheel
+		Camper_Wheel
+		SparkPlug
+		CarBattery
+		CarRadiator
+		HeadlightH7
+		HeadlightH7
+	
+	
+	
+	
+	
+	

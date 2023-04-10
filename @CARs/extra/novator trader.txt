@@ -1,0 +1,179 @@
+<Category> Novator
+		Novator,							V,		80000,		15000
+		Novator_Woodland,					V,		80000,		15000
+		Novator_Grey,						V,		80000,		15000
+		Novator_Camouflage,					V,		80000,		15000
+		Novator_Pixel,						V,		80000,		15000
+		Novator_Flecktarn,					V,		80000,		15000
+		
+<Category> Novator Parts
+		Novator_Wheel,							*,		250,	110	
+		Novator_Tent,							*,		300,	100	
+		Novator_Doors_Driver,					*,		300,	100
+		Novator_Doors_Driver_Woodland,			*,		300,	100
+		Novator_Doors_Driver_Grey,				*,		300,	100
+		Novator_Doors_Driver_Camouflage,		*,		300,	100
+		Novator_Doors_Driver_Pixel,				*,		300,	100
+		Novator_Doors_Driver_Flecktarn,			*,		300,	100
+		Novator_Doors_coDriver,					*,		300,	100
+		Novator_Doors_coDriver_Woodland,		*,		300,	100
+		Novator_Doors_coDriver_Grey,			*,		300,	100
+		Novator_Doors_coDriver_Camouflage,		*,		300,	100
+		Novator_Doors_coDriver_Pixel,			*,		300,	100
+		Novator_Doors_coDriver_Flecktarn,		*,		300,	100
+		Novator_Doors_hood,						*,		300,	100
+		Novator_Doors_hood_Woodland,			*,		300,	100
+		Novator_Doors_hood_Grey,				*,		300,	100
+		Novator_Doors_hood_Camouflage,			*,		300,	100
+		Novator_Doors_hood_Pixel,				*,		300,	100
+		Novator_Doors_hood_Flecktarn,			*,		300,	100
+		Novator_Doors_trunk,					*,		300,	100	
+		Novator_Doors_trunk_Woodland,			*,		300,	100	
+		Novator_Doors_trunk_Grey,				*,		300,	100	
+		Novator_Doors_trunk_Camouflage,			*,		300,	100	
+		Novator_Doors_trunk_Pixel,				*,		300,	100	
+		Novator_Doors_trunk_Flecktarn,			*,		300,	100	
+		Novator_Doors_cargo1,					*,		300,	100
+		Novator_Doors_cargo1_Woodland,			*,		300,	100
+		Novator_Doors_cargo1_Grey,				*,		300,	100
+		Novator_Doors_cargo1_Camouflage,		*,		300,	100
+		Novator_Doors_cargo1_Pixel,				*,		300,	100
+		Novator_Doors_cargo1_Flecktarn,			*,		300,	100
+		Novator_Doors_cargo2,					*,		300,	100
+		Novator_Doors_cargo2_Woodland,			*,		300,	100
+		Novator_Doors_cargo2_Grey,				*,		300,	100
+		Novator_Doors_cargo2_Camouflage,		*,		300,	100
+		Novator_Doors_cargo2_Pixel,				*,		300,	100
+		Novator_Doors_cargo2_Flecktarn,			*,		300,	100
+		Novator_Doors_cargo3,					*,		300,	100
+		Novator_Doors_cargo3_Woodland,			*,		300,	100
+		Novator_Doors_cargo3_Grey,				*,		300,	100
+		Novator_Doors_cargo3_Camouflage,		*,		300,	100
+		Novator_Doors_cargo3_Pixel,				*,		300,	100
+		Novator_Doors_cargo3_Flecktarn,			*,		300,	100
+		Novator_Doors_cargo4,					*,		300,	100
+		Novator_Doors_cargo4_Woodland,			*,		300,	100
+		Novator_Doors_cargo4_Grey,				*,		300,	100
+		Novator_Doors_cargo4_Camouflage,		*,		300,	100
+		Novator_Doors_cargo4_Pixel,				*,		300,	100
+		Novator_Doors_cargo4_Flecktarn,			*,		300,	100
+		
+<VehicleParts> Novator
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Novator_Doors_Driver
+	Novator_Doors_coDriver
+	Novator_Doors_cargo1
+	Novator_Doors_cargo2
+	Novator_Doors_cargo3
+	Novator_Doors_cargo4
+	Novator_Doors_hood
+	Novator_Doors_trunk
+	Novator_Wheel
+	Novator_Wheel
+	Novator_Wheel
+	Novator_Wheel
+	Novator_Wheel
+	
+<VehicleParts> Novator_Woodland
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Novator_Doors_Driver_Woodland
+	Novator_Doors_coDriver_Woodland
+	Novator_Doors_cargo1_Woodland
+	Novator_Doors_cargo2_Woodland
+	Novator_Doors_cargo3_Woodland
+	Novator_Doors_cargo4_Woodland
+	Novator_Doors_hood_Woodland
+	Novator_Doors_trunk_Woodland
+	Novator_Wheel
+	Novator_Wheel
+	Novator_Wheel
+	Novator_Wheel
+	Novator_Wheel
+	
+<VehicleParts> Novator_Grey
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Novator_Doors_Driver_Grey
+	Novator_Doors_coDriver_Grey
+	Novator_Doors_cargo1_Grey
+	Novator_Doors_cargo2_Grey
+	Novator_Doors_cargo3_Grey
+	Novator_Doors_cargo4_Grey
+	Novator_Doors_hood_Grey
+	Novator_Doors_trunk_Grey
+	Novator_Wheel
+	Novator_Wheel
+	Novator_Wheel
+	Novator_Wheel
+	Novator_Wheel
+	
+<VehicleParts> Novator_Camouflage
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Novator_Doors_Driver_Camouflage
+	Novator_Doors_coDriver_Camouflage
+	Novator_Doors_cargo1_Camouflage
+	Novator_Doors_cargo2_Camouflage
+	Novator_Doors_cargo3_Camouflage
+	Novator_Doors_cargo4_Camouflage
+	Novator_Doors_hood_Camouflage
+	Novator_Doors_trunk_Camouflage
+	Novator_Wheel
+	Novator_Wheel
+	Novator_Wheel
+	Novator_Wheel
+	Novator_Wheel
+	
+<VehicleParts> Novator_Pixel
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Novator_Doors_Driver_Pixel
+	Novator_Doors_coDriver_Pixel
+	Novator_Doors_cargo1_Pixel
+	Novator_Doors_cargo2_Pixel
+	Novator_Doors_cargo3_Pixel
+	Novator_Doors_cargo4_Pixel
+	Novator_Doors_hood_Pixel
+	Novator_Doors_trunk_Pixel
+	Novator_Wheel
+	Novator_Wheel
+	Novator_Wheel
+	Novator_Wheel
+	Novator_Wheel
+	
+<VehicleParts> Novator_Flecktarn
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Novator_Doors_Driver_Flecktarn
+	Novator_Doors_coDriver_Flecktarn
+	Novator_Doors_cargo1_Flecktarn
+	Novator_Doors_cargo2_Flecktarn
+	Novator_Doors_cargo3_Flecktarn
+	Novator_Doors_cargo4_Flecktarn
+	Novator_Doors_hood_Flecktarn
+	Novator_Doors_trunk_Flecktarn
+	Novator_Wheel
+	Novator_Wheel
+	Novator_Wheel
+	Novator_Wheel
+	Novator_Wheel

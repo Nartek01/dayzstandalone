@@ -1,4 +1,6 @@
-@*
+@*/Addons
+@*/mod.cpp
+@*/meta.cpp
 mpmissions/dayzOffline.chernarusplus/storage*
 DayZServer_x64.exe
 dayzsetting.xml

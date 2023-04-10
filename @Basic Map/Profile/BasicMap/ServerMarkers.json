@@ -1,0 +1,182 @@
+[
+    {
+        "Name": "GREEN MOUNTAIN",
+        "Pos": [
+            3703.5,
+            404.712,
+            5985.11
+        ],
+        "Icon": "BasicMap\\gui\\images\\marker.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+            212,
+            138,
+            251
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": -1.0,
+        "MinRenderDistance": 60
+    },
+    {
+        "Name": "KUMYRNA",
+        "Pos": [
+            8354.06,
+            293.143,
+            5995.87
+        ],
+        "Icon": "BasicMap\\gui\\images\\marker.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+            212,
+            138,
+            251
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": -1.0,
+        "MinRenderDistance": -1.0
+    },
+    {
+        "Name": "Water Well",
+        "Pos": [
+            3693.56005859375,
+            402.312,
+            6010.0498046875
+        ],
+        "Icon": "BasicMap\\gui\\images\\well.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+            212,
+            138,
+            251
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": 55,
+        "MinRenderDistance": -1
+    },
+    {
+        "Name": "Consume Trader",
+        "Pos": [
+            3699.27,
+            403.83,
+            5967.91
+        ],
+        "Icon": "BasicMap\\gui\\images\\food.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+            212,
+            138,
+            251
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": 55,
+        "MinRenderDistance": -1
+    },
+    {
+        "Name": "Misc Trader",
+        "Pos": [
+            3691.41,
+            404.37,
+            5998.47
+        ],
+        "Icon": "BasicMap\\gui\\images\\tools.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+            212,
+            138,
+            251
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": 55,
+        "MinRenderDistance": -1
+    },
+    {
+        "Name": "Weapon Trader",
+        "Pos": [
+            3708.71,
+            404.853,
+            5974.79
+        ],
+        "Icon": "BasicMap\\gui\\images\\guns.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+            212,
+            138,
+            251
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": 55,
+        "MinRenderDistance": -1
+    },
+    {
+        "Name": "Weapon Supplies",
+        "Pos": [
+            3707.46,
+            404.853,
+            5973.3
+        ],
+        "Icon": "BasicMap\\gui\\images\\ammo.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+            212,
+            138,
+            251
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": 55,
+        "MinRenderDistance": -1
+    },
+    {
+        "Name": "Clothing Trader",
+        "Pos": [
+            3703.56,
+            403.995,
+            6009.53
+        ],
+        "Icon": "BasicMap\\gui\\images\\clothing.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+            212,
+            138,
+            251
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": 55,
+        "MinRenderDistance": -1
+    },
+    {
+        "Name": "Vehicles Trader",
+        "Pos": [
+            3723.84,
+            403.712,
+            5990.04
+        ],
+        "Icon": "BasicMap\\gui\\images\\car.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+            212,
+            138,
+            251
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": 55,
+        "MinRenderDistance": -1
+    }
+]

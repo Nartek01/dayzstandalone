@@ -1,0 +1,194 @@
+<Category> HAMMER_H1
+		HAMMER_H1,								V,		80000,		15000
+		HAMMER_H1_dirty,						V,		80000,		15000
+		HAMMER_H1_black,						V,		80000,		15000
+		HAMMER_H1_black_rust,					V,		80000,		15000
+		HAMMER_H1_camo,							V,		80000,		15000
+		HAMMER_H1_rust,							V,		80000,		15000
+		HAMMER_H1_WINTER,						V,		80000,		15000
+		
+<Category> HAMMER_H1 Parts
+		HAMMER_Wheel,							*,		300,	100			
+		HAMMER_bags								*,		300,	100		
+		HAMMER_Doors_Driver						*,		300,	100
+		HAMMER_Doors_Driver_dirty				*,		300,	100
+		HAMMER_Doors_Driver_black				*,		300,	100
+		HAMMER_Doors_Driver_black_rust			*,		300,	100
+		HAMMER_Doors_Driver_camo				*,		300,	100
+		HAMMER_Doors_Driver_rust				*,		300,	100	
+		HAMMER_Doors_Driver_WINTER				*,		300,	100	
+		HAMMER_Doors_coDriver					*,		300,	100
+		HAMMER_Doors_coDriver_dirty				*,		300,	100
+		HAMMER_Doors_coDriver_black				*,		300,	100
+		HAMMER_Doors_coDriver_black_rust		*,		300,	100
+		HAMMER_Doors_coDriver_camo				*,		300,	100
+		HAMMER_Doors_coDriver_rust				*,		300,	100
+		HAMMER_Doors_coDriver_WINTER				*,		300,	100
+		HAMMER_Doors_cargo1						*,		300,	100
+		HAMMER_Doors_cargo1_dirty				*,		300,	100
+		HAMMER_Doors_cargo1_black				*,		300,	100
+		HAMMER_Doors_cargo1_black_rust			*,		300,	100
+		HAMMER_Doors_cargo1_camo				*,		300,	100
+		HAMMER_Doors_cargo1_rust				*,		300,	100
+		HAMMER_Doors_cargo1_WINTER				*,		300,	100
+		HAMMER_Doors_cargo2						*,		300,	100
+		HAMMER_Doors_cargo2_dirty				*,		300,	100
+		HAMMER_Doors_cargo2_black				*,		300,	100
+		HAMMER_Doors_cargo2_black_rust			*,		300,	100
+		HAMMER_Doors_cargo2_camo				*,		300,	100
+		HAMMER_Doors_cargo2_rust				*,		300,	100
+		HAMMER_Doors_cargo2_WINTER				*,		300,	100
+		HAMMER_Doors_hood 						*,		300,	100
+		HAMMER_Doors_hood_dirty					*,		300,	100
+		HAMMER_Doors_hood_black					*,		300,	100
+		HAMMER_Doors_hood_black_rust			*,		300,	100
+		HAMMER_Doors_hood_camo					*,		300,	100
+		HAMMER_Doors_hood_rust					*,		300,	100
+		HAMMER_Doors_hood_WINTER					*,		300,	100
+		HAMMER_Doors_trunk						*,		300,	100
+		HAMMER_Doors_trunk_dirty				*,		300,	100
+		HAMMER_Doors_trunk_black				*,		300,	100
+		HAMMER_Doors_trunk_black_rust			*,		300,	100
+		HAMMER_Doors_trunk_camo					*,		300,	100
+		HAMMER_Doors_trunk_rust					*,		300,	100
+		HAMMER_Doors_trunk_WINTER					*,		300,	100
+		HAMMER_Doors_cargo3						*,		300,	100
+		HAMMER_Doors_cargo3_dirty				*,		300,	100
+		HAMMER_Doors_cargo3_black				*,		300,	100
+		HAMMER_Doors_cargo3_black_rust			*,		300,	100
+		HAMMER_Doors_cargo3_camo				*,		300,	100
+		HAMMER_Doors_cargo3_rust				*,		300,	100
+		HAMMER_Doors_cargo3_WINTER				*,		300,	100
+		
+<VehicleParts> HAMMER_H1
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	HAMMER_Doors_Driver
+	HAMMER_Doors_coDriver
+	HAMMER_Doors_cargo1
+	HAMMER_Doors_cargo2
+	HAMMER_Doors_hood 
+	HAMMER_Doors_trunk
+	HAMMER_Doors_cargo3
+	HAMMER_Wheel
+	HAMMER_Wheel
+	HAMMER_Wheel
+	HAMMER_Wheel
+	HAMMER_Wheel
+	
+<VehicleParts> HAMMER_H1_dirty
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	HAMMER_Doors_Driver_dirty
+	HAMMER_Doors_coDriver_dirty
+	HAMMER_Doors_cargo1_dirty
+	HAMMER_Doors_cargo2_dirty
+	HAMMER_Doors_hood_dirty 
+	HAMMER_Doors_trunk_dirty
+	HAMMER_Doors_cargo3_dirty
+	HAMMER_Wheel
+	HAMMER_Wheel
+	HAMMER_Wheel
+	HAMMER_Wheel
+	HAMMER_Wheel
+	
+<VehicleParts> HAMMER_H1_black
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	HAMMER_Doors_Driver_black
+	HAMMER_Doors_coDriver_black
+	HAMMER_Doors_cargo1_black
+	HAMMER_Doors_cargo2_black
+	HAMMER_Doors_hood_black 
+	HAMMER_Doors_trunk_black
+	HAMMER_Doors_cargo3_black
+	HAMMER_Wheel
+	HAMMER_Wheel
+	HAMMER_Wheel
+	HAMMER_Wheel
+	HAMMER_Wheel
+	
+<VehicleParts> HAMMER_H1_black_rust
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	HAMMER_Doors_Driver_black_rust
+	HAMMER_Doors_coDriver_black_rust
+	HAMMER_Doors_cargo1_black_rust
+	HAMMER_Doors_cargo2_black_rust
+	HAMMER_Doors_hood_black_rust 
+	HAMMER_Doors_trunk_black_rust
+	HAMMER_Doors_cargo3_black_rust
+	HAMMER_Wheel
+	HAMMER_Wheel
+	HAMMER_Wheel
+	HAMMER_Wheel
+	HAMMER_Wheel
+	
+<VehicleParts> HAMMER_H1_camo
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	HAMMER_Doors_Driver_camo
+	HAMMER_Doors_coDriver_camo
+	HAMMER_Doors_cargo1_camo
+	HAMMER_Doors_cargo2_camo
+	HAMMER_Doors_hood_camo 
+	HAMMER_Doors_trunk_camo
+	HAMMER_Doors_cargo3_camo
+	HAMMER_Wheel
+	HAMMER_Wheel
+	HAMMER_Wheel
+	HAMMER_Wheel
+	HAMMER_Wheel
+	
+<VehicleParts> HAMMER_H1_rust
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	HAMMER_Doors_Driver_rust
+	HAMMER_Doors_coDriver_rust
+	HAMMER_Doors_cargo1_rust
+	HAMMER_Doors_cargo2_rust
+	HAMMER_Doors_hood_rust 
+	HAMMER_Doors_trunk_rust
+	HAMMER_Doors_cargo3_rust
+	HAMMER_Wheel
+	HAMMER_Wheel
+	HAMMER_Wheel
+	HAMMER_Wheel
+	HAMMER_Wheel
+	
+<VehicleParts> HAMMER_H1_WINTER
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	HAMMER_Doors_Driver_WINTER
+	HAMMER_Doors_coDriver_WINTER
+	HAMMER_Doors_cargo1_WINTER
+	HAMMER_Doors_cargo2_WINTER
+	HAMMER_Doors_hood_WINTER 
+	HAMMER_Doors_trunk_WINTER
+	HAMMER_Doors_cargo3_WINTER
+	HAMMER_Wheel
+	HAMMER_Wheel
+	HAMMER_Wheel
+	HAMMER_Wheel
+	HAMMER_Wheel

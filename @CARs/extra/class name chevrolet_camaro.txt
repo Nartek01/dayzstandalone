@@ -1,0 +1,61 @@
+
+/* 1 */ Chevrolet_Camaro 
+		//-------------------
+		Chevrolet_Camaro_Doors_Driver
+		Chevrolet_Camaro_Doors_coDriver
+		Chevrolet_Camaro_Doors_hood
+		Chevrolet_Camaro_Doors_trunk 
+		//-------------------
+
+/* 2 */ Chevrolet_Camaro_black
+		//-------------------
+		Chevrolet_Camaro_Doors_Driver_black
+		Chevrolet_Camaro_Doors_coDriver_black
+		Chevrolet_Camaro_Doors_hood_black
+		Chevrolet_Camaro_Doors_trunk_black
+		//-------------------
+		
+/* 3 */ Chevrolet_Camaro_red 
+		//-------------------
+		Chevrolet_Camaro_Doors_Driver_red 
+		Chevrolet_Camaro_Doors_coDriver_red 
+		Chevrolet_Camaro_Doors_hood_red
+		Chevrolet_Camaro_Doors_trunk_red 	
+		//-------------------	
+		
+/* 4 */ Chevrolet_Camaro_yellow 
+		//-------------------
+		Chevrolet_Camaro_Doors_Driver_yellow 
+		Chevrolet_Camaro_Doors_coDriver_yellow 
+		Chevrolet_Camaro_Doors_hood_yellow
+		Chevrolet_Camaro_Doors_trunk_yellow 
+		
+		//-------------------
+		
+/* 5 */ Chevrolet_Camaro_kamo 
+		//-------------------
+		Chevrolet_Camaro_Doors_Driver_kamo
+		Chevrolet_Camaro_Doors_coDriver_kamo
+		Chevrolet_Camaro_Doors_hood_kamo
+		Chevrolet_Camaro_Doors_trunk_kamo	
+
+/* 6 */ Chevrolet_Camaro_pink
+		//-------------------
+		Chevrolet_Camaro_Doors_Driver_pink
+		Chevrolet_Camaro_Doors_coDriver_pink
+		Chevrolet_Camaro_Doors_hood_pink
+		Chevrolet_Camaro_Doors_trunk_pink		
+		//-------------------
+		
+		Chevrolet_Camaro_Wheel
+		Chevrolet_Camaro_Wheel
+		Chevrolet_Camaro_Wheel
+		Chevrolet_Camaro_Wheel
+		Chevrolet_Camaro_Wheel
+		SparkPlug
+		CarBattery
+		CarRadiator
+		HeadlightH7
+		HeadlightH7
+		
+	

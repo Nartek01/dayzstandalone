@@ -1,0 +1,36 @@
+
+/* 1 */ Interceptor 
+		//-------------------
+		Interceptor_Doors_Driver
+		Interceptor_Doors_coDriver
+		//-------------------
+
+/* 2 */ Interceptor_blue 
+		//-------------------
+		Interceptor_Doors_Driver_blue
+		Interceptor_Doors_coDriver_blue
+		//-------------------
+		
+/* 3 */ Interceptor_red 
+		//-------------------
+		Interceptor_Doors_Driver_red
+		Interceptor_Doors_coDriver_red
+		//-------------------	
+		
+/* 4 */ Interceptor_yellow 
+		//-------------------
+		Interceptor_Doors_Driver_yellow
+		Interceptor_Doors_coDriver_yellow
+	
+		//-------------------
+		Interceptor_Wheel
+		Interceptor_Wheel
+		Interceptor_Wheel
+		Interceptor_Wheel
+		Interceptor_Wheel
+		SparkPlug
+		CarBattery
+		HeadlightH7
+		HeadlightH7
+		
+	

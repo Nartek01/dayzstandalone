@@ -1,0 +1,125 @@
+
+		//-------------------
+/* 1 */ URAL_4320 
+		//-------------------
+		URAL_4320_Doors_Driver
+		URAL_4320_Doors_coDriver
+		URAL_4320_Doors_hood
+		URAL_4320_Doors_trunk
+		URAL_4320_tent
+
+		//-------------------
+		
+/* 2 */ URAL_4320_rust
+		//-------------------
+		URAL_4320_Doors_Driver_rust
+		URAL_4320_Doors_coDriver_rust
+		URAL_4320_Doors_hood_rust
+		URAL_4320_Doors_trunk_rust
+		URAL_4320_tent_rust
+
+		//-------------------
+		
+/* 3 */ URAL_4320_blue  
+		//-------------------
+		URAL_4320_Doors_Driver_blue  
+		URAL_4320_Doors_coDriver_blue  
+		URAL_4320_Doors_hood_blue  
+		URAL_4320_Doors_trunk_blue  
+		URAL_4320_tent_blue  
+		//-------------------
+		
+/* 4 */ URAL_4320_kamo  
+		//-------------------
+		URAL_4320_Doors_Driver_kamo 
+		URAL_4320_Doors_coDriver_kamo 
+		URAL_4320_Doors_hood_kamo 
+		URAL_4320_Doors_trunk_kamo 
+		URAL_4320_tent_kamo	
+		
+/* 5 */ URAL_4320_yellow  
+		//-------------------
+		URAL_4320_Doors_Driver_yellow 
+		URAL_4320_Doors_coDriver_yellow 
+		URAL_4320_Doors_hood_yellow 
+		URAL_4320_Doors_trunk_yellow 
+		URAL_4320_tent_yellow
+//////////////////////////////////////////////////////////////////	
+
+		//-------------------
+/* 1 */ URAL_4320_Kung 
+		//-------------------
+		URAL_4320_Doors_Driver
+		URAL_4320_Doors_coDriver
+		URAL_4320_Doors_hood
+		URAL_4320_Doors_cargo1
+		URAL_4320_Doors_cargo2
+		URAL_4320_Doors_cargo3
+		URAL_4320_Doors_cargo4
+		URAL_4320_flag
+
+		//-------------------
+		
+/* 2 */ URAL_4320_Kung_rust
+		//-------------------
+		URAL_4320_Doors_Driver_rust
+		URAL_4320_Doors_coDriver_rust
+		URAL_4320_Doors_hood_rust
+		URAL_4320_Doors_cargo1_rust
+		URAL_4320_Doors_cargo2_rust
+		URAL_4320_Doors_cargo3_rust
+		URAL_4320_Doors_cargo4_rust
+		URAL_4320_flag_rust
+
+		//-------------------
+		
+/* 3 */ URAL_4320_Kung_blue  
+		//-------------------
+		URAL_4320_Doors_Driver_blue  
+		URAL_4320_Doors_coDriver_blue  
+		URAL_4320_Doors_hood_blue  
+		URAL_4320_Doors_cargo1_blue 
+		URAL_4320_Doors_cargo2_blue 
+		URAL_4320_Doors_cargo3_blue 
+		URAL_4320_Doors_cargo4_blue 
+		URAL_4320_flag_blue 
+		//-------------------
+		
+/* 4 */ URAL_4320_Kung_kamo  
+		//-------------------
+		URAL_4320_Doors_Driver_kamo 
+		URAL_4320_Doors_coDriver_kamo 
+		URAL_4320_Doors_hood_kamo 
+		URAL_4320_Doors_cargo1_kamo
+		URAL_4320_Doors_cargo2_kamo
+		URAL_4320_Doors_cargo3_kamo
+		URAL_4320_Doors_cargo4_kamo
+		URAL_4320_flag_kamo
+		//-------------------	
+			
+/* 5 */ URAL_4320_Kung_yellow  
+		//-------------------
+		URAL_4320_Doors_Driver_yellow 
+		URAL_4320_Doors_coDriver_yellow 
+		URAL_4320_Doors_hood_yellow 
+		URAL_4320_Doors_cargo1_yellow
+		URAL_4320_Doors_cargo2_yellow
+		URAL_4320_Doors_cargo3_yellow
+		URAL_4320_Doors_cargo4_yellow
+		URAL_4320_flag_yellow
+		//-------------------	
+		
+//////////////////////////////////////////////		
+		URAL_4320_Wheel
+		
+		SparkPlug
+		TruckBattery
+		CarRadiator
+		HeadlightH7
+		HeadlightH7
+	
+	
+	
+	
+	
+	

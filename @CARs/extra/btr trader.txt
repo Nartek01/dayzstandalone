@@ -1,0 +1,125 @@
+	<Category> Vehicles	
+		BTR,									V,		200,	200
+		BTR_black,								V,		200,	200
+		BTR_white,								V,		200,	200	
+		BTR_green,								V,		200,	200
+
+	<Category> BTR Parts
+		BTR_Wheel,								*,		250,	100	
+		BTR_Doors_Driver,						*,		300,	100
+		BTR_Doors_coDriver,						*,		300,	100
+		BTR_Doors_hood1,						*,		300,	100
+		BTR_Doors_hood2,						*,		300,	100
+		BTR_Doors_cargo1,						*,		300,	100
+		BTR_Doors_cargo2,						*,		300,	100
+		BTR_Doors_cargo3,						*,		300,	100
+		BTR_Doors_Driver_black,					*,		300,	100
+		BTR_Doors_coDriver_black,				*,		300,	100
+		BTR_Doors_hood1_black,					*,		300,	100
+		BTR_Doors_hood2_black,					*,		300,	100
+		BTR_Doors_cargo1_black,					*,		300,	100
+		BTR_Doors_cargo2_black,					*,		300,	100
+		BTR_Doors_cargo3_black,					*,		300,	100
+		BTR_Doors_Driver_white,					*,		300,	100
+		BTR_Doors_coDriver_white,				*,		300,	100
+		BTR_Doors_hood1_white,					*,		300,	100
+		BTR_Doors_hood2_white,					*,		300,	100
+		BTR_Doors_cargo1_white,					*,		300,	100
+		BTR_Doors_cargo2_white,					*,		300,	100
+		BTR_Doors_cargo3_white,					*,		300,	100
+		BTR_Doors_Driver_green,					*,		300,	100
+		BTR_Doors_coDriver_green,				*,		300,	100
+		BTR_Doors_hood1_green,					*,		300,	100
+		BTR_Doors_hood2_green,					*,		300,	100
+		BTR_Doors_cargo1_green,					*,		300,	100
+		BTR_Doors_cargo2_green,					*,		300,	100
+		BTR_Doors_cargo3_green,					*,		300,	100
+		
+
+<VehicleParts> BTR
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	BTR_Doors_Driver
+	BTR_Doors_coDriver
+	BTR_Doors_cargo1
+	BTR_Doors_cargo2 
+	BTR_Doors_cargo3
+	BTR_Doors_hood1 
+	BTR_Doors_hood2
+	BTR_Wheel
+	BTR_Wheel
+	BTR_Wheel
+	BTR_Wheel
+	BTR_Wheel
+	BTR_Wheel
+	BTR_Wheel
+	BTR_Wheel
+	
+<VehicleParts> BTR black
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	BTR_Doors_Driver_black
+	BTR_Doors_coDriver_black
+	BTR_Doors_cargo1_black
+	BTR_Doors_cargo2_black 
+	BTR_Doors_cargo3_black
+	BTR_Doors_hood1_black 
+	BTR_Doors_hood2_black
+	BTR_Wheel
+	BTR_Wheel
+	BTR_Wheel
+	BTR_Wheel
+	BTR_Wheel
+	BTR_Wheel
+	BTR_Wheel
+	BTR_Wheel
+	
+<VehicleParts> BTR white
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	BTR_Doors_Driver_white
+	BTR_Doors_coDriver_white
+	BTR_Doors_cargo1_white
+	BTR_Doors_cargo2_white
+	BTR_Doors_cargo3_white
+	BTR_Doors_hood1_white
+	BTR_Doors_hood2_white
+	BTR_Wheel
+	BTR_Wheel
+	BTR_Wheel
+	BTR_Wheel
+	BTR_Wheel
+	BTR_Wheel
+	BTR_Wheel
+	BTR_Wheel
+	
+<VehicleParts> BTR green
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	BTR_Doors_Driver_green
+	BTR_Doors_coDriver_green
+	BTR_Doors_cargo1_green
+	BTR_Doors_cargo2_green 
+	BTR_Doors_cargo3_green
+	BTR_Doors_hood1_green 
+	BTR_Doors_hood2_green
+	BTR_Wheel
+	BTR_Wheel
+	BTR_Wheel
+	BTR_Wheel
+	BTR_Wheel
+	BTR_Wheel
+	BTR_Wheel
+	BTR_Wheel

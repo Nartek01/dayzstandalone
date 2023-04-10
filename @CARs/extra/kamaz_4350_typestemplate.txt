@@ -1,0 +1,638 @@
+<!-- TYPES.XML TEMPLATE 22.06.2021 23:38:36,60 -->
+<types>
+	<type name="Kamaz_4350">
+		<nominal>0</nominal>
+		<lifetime>7776000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="Kamaz_4350_Doors_Driver">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_Doors_coDriver">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_Doors_trunk">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_tent">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_Flora">
+		<nominal>0</nominal>
+		<lifetime>7776000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="Kamaz_4350_Doors_Driver_Flora">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_Doors_coDriver_Flora">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_Doors_trunk_Flora">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_tent_Flora">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_Pixel">
+		<nominal>0</nominal>
+		<lifetime>7776000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="Kamaz_4350_Doors_Driver_Pixel">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_Doors_coDriver_Pixel">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_Doors_trunk_Pixel">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_tent_Pixel">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_old">
+		<nominal>0</nominal>
+		<lifetime>7776000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="Kamaz_4350_Doors_Driver_old">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_Doors_coDriver_old">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_Doors_trunk_old">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_tent_old">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_black">
+		<nominal>0</nominal>
+		<lifetime>7776000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="Kamaz_4350_Doors_Driver_black">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_Doors_coDriver_black">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_Doors_trunk_black">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_tent_black">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_winter">
+		<nominal>0</nominal>
+		<lifetime>7776000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="Kamaz_4350_Doors_Driver_winter">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_Doors_coDriver_winter">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_Doors_trunk_winter">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_tent_winter">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_Wheel">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+	</type>
+	<type name="Kamaz_4350_Kung">
+		<nominal>0</nominal>
+		<lifetime>7776000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="Kamaz_4350_Doors_cargo1">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_Doors_cargo2">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_Doors_cargo3">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_Kung_black">
+		<nominal>0</nominal>
+		<lifetime>7776000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="Kamaz_4350_Doors_cargo1_black">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_Doors_cargo2_black">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_Doors_cargo3_black">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_Kung_Flora">
+		<nominal>0</nominal>
+		<lifetime>7776000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="Kamaz_4350_Doors_cargo1_Flora">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_Doors_cargo2_Flora">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_Doors_cargo3_Flora">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_Kung_Pixel">
+		<nominal>0</nominal>
+		<lifetime>7776000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="Kamaz_4350_Doors_cargo1_Pixel">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_Doors_cargo2_Pixel">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_Doors_cargo3_Pixel">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_Kung_old">
+		<nominal>0</nominal>
+		<lifetime>7776000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="Kamaz_4350_Doors_cargo1_old">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_Doors_cargo2_old">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_Doors_cargo3_old">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_Kung_winter">
+		<nominal>0</nominal>
+		<lifetime>7776000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="Kamaz_4350_Doors_cargo1_winter">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_Doors_cargo2_winter">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Kamaz_4350_Doors_cargo3_winter">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+</types>

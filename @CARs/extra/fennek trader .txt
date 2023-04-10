@@ -1,0 +1,135 @@
+	<Category> Vehicles	
+		Fennek,									V,		200,	200
+		Fennek_black,							V,		200,	200
+		Fennek_BIOHAZARD,						V,		200,	200	Fennek_CAMOgreen,						V,		200,	200
+		Fennek_RUST,							V,		200,	200
+		Fennek_WINTER,							V,		200,	200	
+
+	<Category> Fennek Parts
+		Fennek_Wheel,							*,		250,	100	
+		Fennek_Doors_Driver,					*,		300,	100
+		Fennek_Doors_coDriver,					*,		300,	100
+		Fennek_Doors_trunk,						*,		300,	100
+		Fennek_Doors_hood,						*,		300,	100
+		Fennek_Wheel_black
+		Fennek_Doors_Driver_black,				*,		300,	100
+		Fennek_Doors_coDriver_black,			*,		300,	100
+		Fennek_Doors_trunk_black,				*,		300,	100
+		Fennek_Doors_hood_black,				*,		300,	100
+		Fennek_Wheel_BIOHAZARD
+		Fennek_Doors_Driver_BIOHAZARD,			*,		300,	100
+		Fennek_Doors_coDriver_BIOHAZARD,		*,		300,	100
+		Fennek_Doors_trunk_BIOHAZARD,			*,		300,	100
+		Fennek_Doors_hood_BIOHAZARD,			*,		300,	100
+		Fennek_Wheel_CAMOgreen,					*,		250,	100	
+		Fennek_Doors_Driver_CAMOgreen,			*,		300,	100
+		Fennek_Doors_coDriver_CAMOgreen,		*,		300,	100
+		Fennek_Doors_trunk_CAMOgreen,			*,		300,	100
+		Fennek_Doors_hood_CAMOgreen,			*,		300,	100
+		Fennek_Wheel_RUST
+		Fennek_Doors_Driver_RUST,				*,		300,	100
+		Fennek_Doors_coDriver_RUST,				*,		300,	100
+		Fennek_Doors_trunk_RUST,				*,		300,	100
+		Fennek_Doors_hood_RUST,					*,		300,	100
+		Fennek_Wheel_WINTER
+		Fennek_Doors_Driver_WINTER,				*,		300,	100
+		Fennek_Doors_coDriver_WINTER,			*,		300,	100
+		Fennek_Doors_trunk_WINTER,				*,		300,	100
+		Fennek_Doors_hood_WINTER,				*,		300,	100
+		
+
+<VehicleParts> Fennek
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Fennek_Doors_Driver
+	Fennek_Doors_coDriver
+	Fennek_Doors_hood
+	Fennek_Doors_trunk
+	Fennek_Wheel
+	Fennek_Wheel
+	Fennek_Wheel
+	Fennek_Wheel
+	Fennek_Wheel
+		
+<VehicleParts> Fennek_black
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Fennek_Doors_Driver_black
+	Fennek_Doors_coDriver_black
+	Fennek_Doors_hood_black 
+	Fennek_Doors_trunk_black
+	Fennek_Wheel_black
+	Fennek_Wheel_black
+	Fennek_Wheel_black
+	Fennek_Wheel_black
+	Fennek_Wheel_black
+	
+<VehicleParts> Fennek_BIOHAZARD
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Fennek_Doors_Driver_BIOHAZARD
+	Fennek_Doors_coDriver_BIOHAZARD
+	Fennek_Doors_hood_BIOHAZARD 
+	Fennek_Doors_trunk_BIOHAZARD
+	Fennek_Wheel_BIOHAZARD
+	Fennek_Wheel_BIOHAZARD
+	Fennek_Wheel_BIOHAZARD
+	Fennek_Wheel_BIOHAZARD
+	Fennek_Wheel_BIOHAZARD
+	
+<VehicleParts> Fennek_CAMOgreen
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Fennek_Doors_Driver_CAMOgreen
+	Fennek_Doors_coDriver_CAMOgreen
+	Fennek_Doors_hood_CAMOgreen 
+	Fennek_Doors_trunk_CAMOgreen
+	Fennek_Wheel_CAMOgreen
+	Fennek_Wheel_CAMOgreen
+	Fennek_Wheel_CAMOgreen
+	Fennek_Wheel_CAMOgreen
+	Fennek_Wheel_CAMOgreen
+	
+<VehicleParts> Fennek_RUST
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Fennek_Doors_Driver_RUST
+	Fennek_Doors_coDriver_RUST
+	Fennek_Doors_hood_RUST 
+	Fennek_Doors_trunk_RUST
+	Fennek_Wheel_RUST
+	Fennek_Wheel_RUST
+	Fennek_Wheel_RUST
+	Fennek_Wheel_RUST
+	Fennek_Wheel_RUST
+	
+<VehicleParts> Fennek_WINTER
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Fennek_Doors_Driver_WINTER
+	Fennek_Doors_coDriver_WINTER
+	Fennek_Doors_hood_WINTER 
+	Fennek_Doors_trunk_WINTER
+	Fennek_Wheel_WINTER
+	Fennek_Wheel_WINTER
+	Fennek_Wheel_WINTER
+	Fennek_Wheel_WINTER
+	Fennek_Wheel_WINTER

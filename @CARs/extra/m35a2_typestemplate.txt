@@ -1,0 +1,464 @@
+<!-- TYPES.XML TEMPLATE 07.10.2021 19:07:31,91 -->
+<types>
+	<type name="M35a2">
+		<nominal>0</nominal>
+		<lifetime>7776000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="M35a2_Doors_Driver">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="M35a2_Doors_coDriver">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="M35a2_Doors_trunk">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="M35a2_Doors_hood">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="M35a2_Tent">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="M35a2_Wheel">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+	</type>
+	<type name="M35a2_WheelDouble">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+	</type>
+	<type name="M35a2_Black">
+		<nominal>0</nominal>
+		<lifetime>7776000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="M35a2_Doors_Driver_Black">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="M35a2_Doors_coDriver_Black">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="M35a2_Doors_trunk_Black">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="M35a2_Doors_hood_Black">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="M35a2_Tent_Black">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="M35a2_Wheel_Black">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+	</type>
+	<type name="M35a2_WheelDouble_Black">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+	</type>
+	<type name="M35a2_Rust">
+		<nominal>0</nominal>
+		<lifetime>7776000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="M35a2_Doors_Driver_Rust">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="M35a2_Doors_coDriver_Rust">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="M35a2_Doors_trunk_Rust">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="M35a2_Doors_hood_Rust">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="M35a2_Tent_Rust">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="M35a2_Wheel_Rust">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+	</type>
+	<type name="M35a2_WheelDouble_Rust">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+	</type>
+	<!-- -->
+	<type name="M35a2_Kamo">
+		<nominal>0</nominal>
+		<lifetime>7776000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="M35a2_Doors_Driver_Kamo">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="M35a2_Doors_coDriver_Kamo">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="M35a2_Doors_trunk_Kamo">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="M35a2_Doors_hood_Kamo">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="M35a2_Tent_Kamo">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="M35a2_Wheel_Kamo">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+	</type>
+	<type name="M35a2_WheelDouble_Kamo">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+	</type>
+	<type name="M35a2_Grey">
+		<nominal>0</nominal>
+		<lifetime>7776000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="M35a2_Doors_Driver_Grey">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="M35a2_Doors_coDriver_Grey">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="M35a2_Doors_trunk_Grey">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="M35a2_Doors_hood_Grey">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="M35a2_Tent_Grey">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="M35a2_Wheel_Grey">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+	</type>
+	<type name="M35a2_WheelDouble_Grey">
+		<nominal>0</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+	</type>
+</types>

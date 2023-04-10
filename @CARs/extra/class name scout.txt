@@ -1,0 +1,39 @@
+		//-------------------
+/* 1 */ SCOUT_Veh 
+		//-------------------
+		SCOUT_Doors_Driver
+		SCOUT_Doors_coDriver
+		SCOUT_Doors_hood 
+		SCOUT_Doors_trunk
+		SCOUT_Doors_cargo1
+		SCOUT_vizor
+		//-------------------
+		
+/* 2 */  SCOUT_Black 
+		//-------------------
+		SCOUT_Doors_Driver_Black
+		SCOUT_Doors_coDriver_Black
+		SCOUT_Doors_hood_Black 
+		SCOUT_Doors_trunk_Black
+		SCOUT_Doors_cargo1
+		SCOUT_vizor_Black
+		
+		//-------------------
+		
+
+		SCOUT_bamper_front_1
+		SCOUT_bamper_front_2
+		SCOUT_bamper_front_3
+		SCOUT_bamper_front_4
+		SCOUT_bamper_back
+		SCOUT_porog //x2
+		
+		SCOUT_Wheel //x5
+		SCOUT_Wheel2 //x5
+		SparkPlug
+		CarBattery
+		CarRadiator
+		HeadlightH7
+		HeadlightH7
+	
+	

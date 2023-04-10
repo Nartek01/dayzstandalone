@@ -1,0 +1,58 @@
+		//-------------------
+/* 1 */ BTR 
+		//-------------------
+		BTR_Doors_Driver
+		BTR_Doors_coDriver
+		BTR_Doors_cargo1
+		BTR_Doors_cargo2 
+		BTR_Doors_cargo3
+		BTR_Doors_hood1 
+		BTR_Doors_hood2
+		//-------------------
+		
+/* 2 */ BTR_white
+		//-------------------
+		BTR_Doors_Driver_white
+		BTR_Doors_coDriver_white
+		BTR_Doors_cargo1_white
+		BTR_Doors_cargo2_white
+		BTR_Doors_cargo3_white
+		BTR_Doors_hood1_white
+		BTR_Doors_hood2_white
+		//-------------------
+		
+		
+/* 3 */ BTR_black
+		//-------------------
+		BTR_Doors_Driver_black
+		BTR_Doors_coDriver_black
+		BTR_Doors_cargo1_black
+		BTR_Doors_cargo2_black 
+		BTR_Doors_cargo3_black
+		BTR_Doors_hood1_black 
+		BTR_Doors_hood2_black
+		//-------------------		
+		
+/* 4 */ BTR_green
+		//-------------------
+		BTR_Doors_Driver_green
+		BTR_Doors_coDriver_green
+		BTR_Doors_cargo1_green
+		BTR_Doors_cargo2_green 
+		BTR_Doors_cargo3_green
+		BTR_Doors_hood1_green 
+		BTR_Doors_hood2_green
+		//-------------------
+		
+		BTR_Wheel//x8
+		
+		SparkPlug
+		TruckBattery
+		CarRadiator
+		HeadlightH7
+		HeadlightH7
+	
+
+	
+	
+	

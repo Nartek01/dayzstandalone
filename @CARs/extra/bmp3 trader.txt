@@ -1,0 +1,140 @@
+	<Category> Vehicles	
+		BMP3,									V,		200,	200
+		BMP3_RUST,								V,		200,	200
+		BMP3_WINTER,							V,		200,	200	
+		BMP3_Pixel,								V,		200,	200	
+		BMP3_Woodland,							V,		200,	200	
+
+	<Category> BMP3 Parts
+		BMP3_Wheel,								*,		250,	100	
+		BMP3_Doors_Driver,						*,		300,	100
+		BMP3_Doors_coDriver,					*,		300,	100
+		BMP3_Doors_hood,						*,		300,	100
+		BMP3_Doors_Driver_RUST,					*,		300,	100
+		BMP3_Doors_coDriver_RUST,				*,		300,	100
+		BMP3_Doors_hood_RUST,					*,		300,	100
+		BMP3_Doors_Driver_WINTER,				*,		300,	100
+		BMP3_Doors_coDriver_WINTER,				*,		300,	100
+		BMP3_Doors_hood_WINTER,					*,		300,	100
+		BMP3_Doors_Driver_Pixel,				*,		300,	100
+		BMP3_Doors_coDriver_Pixel,				*,		300,	100
+		BMP3_Doors_hood_Pixel,					*,		300,	100
+		BMP3_Doors_Driver_Woodland,				*,		300,	100
+		BMP3_Doors_coDriver_Woodland,			*,		300,	100
+		BMP3_Doors_hood_Woodland,				*,		300,	100
+		
+
+<VehicleParts> BMP3
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	BMP3_Doors_Driver
+	BMP3_Doors_coDriver
+	BMP3_Doors_hood
+	AmmoRoket
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	
+<VehicleParts> BMP3_RUST
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	BMP3_Doors_Driver_RUST
+	BMP3_Doors_coDriver_RUST
+	BMP3_Doors_hood_RUST
+	AmmoRoket
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	
+<VehicleParts> BMP3_WINTER
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	BMP3_Doors_Driver_WINTER
+	BMP3_Doors_coDriver_WINTER
+	BMP3_Doors_hood_WINTER 
+	AmmoRoket 
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	
+<VehicleParts> BMP3_Pixel
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	BMP3_Doors_Driver_Pixel
+	BMP3_Doors_coDriver_Pixel
+	BMP3_Doors_hood_Pixel 
+	AmmoRoket 
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	
+<VehicleParts> BMP3_Woodland
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	BMP3_Doors_Driver_Woodland
+	BMP3_Doors_coDriver_Woodland
+	BMP3_Doors_hood_Woodland 
+	AmmoRoket 
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel
+	BMP3_Wheel

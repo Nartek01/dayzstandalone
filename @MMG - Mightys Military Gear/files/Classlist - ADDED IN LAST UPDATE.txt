@@ -1,0 +1,20 @@
+CARGOBELT:
+
+mmg_cargobelt_black
+mmg_cargobelt_green
+mmg_cargobelt_tan
+
+
+DUMP POUCH:
+
+mmg_dump_pouch_black
+mmg_dump_pouch_green
+mmg_dump_pouch_tan
+
+
+PATCHES
+
+MMG_patch_rubber_deerisle_special
+MMG_patch_rubber_ocean
+MMG_patch_rubber_lithuania
+MMG_patch_rubber_scotland

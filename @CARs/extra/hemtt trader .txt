@@ -1,0 +1,216 @@
+	<Category> Vehicles	
+		HEMTT,									V,		200,	200
+		HEMTT_rust,								V,		200,	200
+		HEMTT_white,							V,		200,	200
+		HEMTT_green,							V,		200,	200
+		HEMTT_black,					 		V,		200,	200
+		HEMTT_flecktarn,					 	V,		200,	200
+		HEMTT_red,							 	V,		200,	200
+	
+
+	<Category> HEMTT Parts
+		HEMTT_Wheel,							*,		250,	100	
+		HEMTT_Doors_Driver,						*,		300,	100
+		HEMTT_Doors_coDriver,					*,		300,	100
+		HEMTT_Doors_trunk,						*,		300,	100
+		HEMTT_Doors_hood1,						*,		300,	100
+		HEMTT_Doors_hood2,						*,		300,	100
+		HEMTT_Doors_hood3,						*,		300,	100
+		HEMTT_tent,								*,		300,	100
+		HEMTT_Doors_Driver_rust,				*,		300,	100
+		HEMTT_Doors_coDriver_rust,				*,		300,	100
+		HEMTT_Doors_trunk_rust,					*,		300,	100
+		HEMTT_Doors_hood1_rust,					*,		300,	100
+		HEMTT_Doors_hood2_rust,					*,		300,	100
+		HEMTT_Doors_hood3_rust,					*,		300,	100
+		HEMTT_tent_rust,						*,		300,	100
+		HEMTT_Doors_Driver_white,				*,		300,	100
+		HEMTT_Doors_coDriver_white,				*,		300,	100
+		HEMTT_Doors_trunk_white,				*,		300,	100
+		HEMTT_Doors_hood1_white,				*,		300,	100
+		HEMTT_Doors_hood2_white,				*,		300,	100
+		HEMTT_Doors_hood3_white,				*,		300,	100
+		HEMTT_tent_white,						*,		300,	100
+		HEMTT_Doors_Driver_green,				*,		300,	100
+		HEMTT_Doors_coDriver_green,				*,		300,	100
+		HEMTT_Doors_trunk_green,				*,		300,	100	
+		HEMTT_Doors_hood1_green,				*,		300,	100	
+		HEMTT_Doors_hood2_green,				*,		300,	100	
+		HEMTT_Doors_hood3_green,				*,		300,	100	
+		HEMTT_tent_green,						*,		300,	100
+		HEMTT_Doors_Driver_black,				*,		300,	100
+		HEMTT_Doors_coDriver_black,				*,		300,	100
+		HEMTT_Doors_trunk_black,				*,		300,	100
+		HEMTT_Doors_hood1_black,				*,		300,	100
+		HEMTT_Doors_hood2_black,				*,		300,	100
+		HEMTT_Doors_hood3_black,				*,		300,	100	
+		HEMTT_tent_black,						*,		300,	100
+		HEMTT_Doors_Driver_flecktarn,			*,		300,	100
+		HEMTT_Doors_coDriver_flecktarn,			*,		300,	100
+		HEMTT_Doors_trunk_flecktarn,			*,		300,	100	
+		HEMTT_Doors_hood1_flecktarn,			*,		300,	100	
+		HEMTT_Doors_hood2_flecktarn,			*,		300,	100	
+		HEMTT_Doors_hood3_flecktarn,			*,		300,	100	
+		HEMTT_tent_flecktarn,					*,		300,	100
+		HEMTT_Doors_Driver_red,					*,		300,	100
+		HEMTT_Doors_coDriver_red,				*,		300,	100
+		HEMTT_Doors_trunk_red,					*,		300,	100	
+		HEMTT_Doors_hood1_red,					*,		300,	100	
+		HEMTT_Doors_hood2_red,					*,		300,	100	
+		HEMTT_Doors_hood3_red,					*,		300,	100	
+		HEMTT_tent_red,							*,		300,	100
+		
+
+<VehicleParts> HEMTT
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	HEMTT_Doors_Driver
+	HEMTT_Doors_coDriver
+	HEMTT_Doors_trunk
+	HEMTT_Doors_hood1
+	HEMTT_Doors_hood2
+	HEMTT_Doors_hood3
+	HEMTT_tent
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	
+<VehicleParts> HEMTT_rust
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	HEMTT_Doors_Driver_rust
+	HEMTT_Doors_coDriver_rust
+	HEMTT_Doors_trunk_rust
+	HEMTT_Doors_hood1_rust
+	HEMTT_Doors_hood2_rust
+	HEMTT_Doors_hood3_rust
+	HEMTT_tent_rust
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	
+<VehicleParts> HEMTT_white
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	HEMTT_Doors_Driver_white  
+	HEMTT_Doors_coDriver_white 
+	HEMTT_Doors_trunk_white 
+	HEMTT_Doors_hood1_white
+	HEMTT_Doors_hood2_white
+	HEMTT_Doors_hood3_white	
+	HEMTT_tent_white 
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	
+<VehicleParts> HEMTT_green
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	HEMTT_Doors_Driver_green 
+	HEMTT_Doors_coDriver_green 
+	HEMTT_Doors_trunk_green
+	HEMTT_Doors_hood1_green
+	HEMTT_Doors_hood2_green
+	HEMTT_Doors_hood3_green	
+	HEMTT_tent_green
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+
+<VehicleParts> HEMTT_black
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	HEMTT_Doors_Driver_black 
+	HEMTT_Doors_coDriver_black 
+	HEMTT_Doors_trunk_black
+	HEMTT_Doors_hood1_black
+	HEMTT_Doors_hood2_black
+	HEMTT_Doors_hood3_black 
+	HEMTT_tent_black
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+
+<VehicleParts> HEMTT_flecktarn
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	HEMTT_Doors_Driver_flecktarn 
+	HEMTT_Doors_coDriver_flecktarn 
+	HEMTT_Doors_trunk_flecktarn
+`	HEMTT_Doors_hood1_flecktarn
+	HEMTT_Doors_hood2_flecktarn
+	HEMTT_Doors_hood3_flecktarn	
+	HEMTT_tent_flecktarn
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+
+<VehicleParts> HEMTT_red
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	HEMTT_Doors_Driver_red 
+	HEMTT_Doors_coDriver_red 
+	HEMTT_Doors_trunk_red
+	HEMTT_Doors_hood1_red
+	HEMTT_Doors_hood2_red
+	HEMTT_Doors_hood3_red
+	HEMTT_tent_red
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel
+	HEMTT_Wheel

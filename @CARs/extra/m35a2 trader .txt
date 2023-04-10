@@ -1,0 +1,139 @@
+<Category> Vehicles	
+	M35a2,									V,		200,	200
+	M35a2_Black,							V,		200,	200
+	M35a2_Grey,								V,		200,	200
+	M35a2_Rust,								V,		200,	200
+	M35a2_Kamo,								V,		200,	200
+	
+
+<Category> M35a2 Parts
+	M35a2_Wheel,							*,		250,	100	
+	M35a2_Wheel,							*,		250,	100	
+	M35a2_Tent,								*,		300,	100
+	M35a2_Doors_Driver,						*,		300,	100
+	M35a2_Doors_coDriver,					*,		300,	100
+	M35a2_Doors_hood,						*,		300,	100
+	M35a2_Doors_trunk,						*,		300,	100
+	M35a2_Wheel_Black,						*,		250,	100	
+	M35a2_WheelDouble_Black,				*,		250,	100	
+	M35a2_Tent_Black,						*,		300,	100
+	M35a2_Doors_Driver_Black,				*,		300,	100
+	M35a2_Doors_coDriver_Black,				*,		300,	100
+	M35a2_Doors_hood_Black,					*,		300,	100
+	M35a2_Doors_trunk_Black,				*,		300,	100
+	M35a2_Wheel_Grey,						*,		250,	100	
+	M35a2_WheelDouble_Grey,					*,		250,	100	
+	M35a2_Tent_Grey,						*,		300,	100
+	M35a2_Doors_Driver_Grey,				*,		300,	100
+	M35a2_Doors_coDriver_Grey,				*,		300,	100
+	M35a2_Doors_hood_Grey,					*,		300,	100
+	M35a2_Doors_trunk_Grey,					*,		300,	100
+	M35a2_Wheel_Rust,						*,		250,	100	
+	M35a2_WheelDouble_Rust,					*,		250,	100	
+	M35a2_Tent_Rust,						*,		300,	100
+	M35a2_Doors_Driver_Rust,				*,		300,	100
+	M35a2_Doors_coDriver_Rust,				*,		300,	100
+	M35a2_Doors_hood_Rust,					*,		300,	100
+	M35a2_Doors_trunk_Rust,					*,		300,	100
+	M35a2_Wheel_Kamo,						*,		250,	100
+	M35a2_WheelDouble_Kamo,					*,		250,	100	
+	M35a2_Tent_Kamo,						*,		300,	100
+	M35a2_Doors_Driver_Kamo,				*,		300,	100
+	M35a2_Doors_coDriver_Kamo,				*,		300,	100
+	M35a2_Doors_hood_Kamo,					*,		300,	100
+	M35a2_Doors_trunk_Kamo,					*,		300,	100		
+
+<VehicleParts> M35a2
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	M35a2_Doors_Driver
+	M35a2_Doors_coDriver
+	M35a2_Doors_trunk
+	M35a2_Doors_hood
+	M35a2_Tent
+	M35a2_Wheel
+	M35a2_Wheel
+	M35a2_Wheel
+	M35a2_WheelDouble
+	M35a2_WheelDouble
+	M35a2_WheelDouble
+	M35a2_WheelDouble
+	
+<VehicleParts> M35a2_Black
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	M35a2_Doors_Driver_Black
+	M35a2_Doors_coDriver_Black
+	M35a2_Doors_trunk_Black
+	M35a2_Doors_hood_Black
+	M35a2_Tent_Black
+	M35a2_Wheel_Black
+	M35a2_Wheel_Black
+	M35a2_Wheel_Black
+	M35a2_WheelDouble_Black
+	M35a2_WheelDouble_Black
+	M35a2_WheelDouble_Black
+	M35a2_WheelDouble_Black
+	
+<VehicleParts> M35a2_Grey
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	M35a2_Doors_Driver_Grey
+	M35a2_Doors_coDriver_Grey
+	M35a2_Doors_trunk_Grey
+	M35a2_Doors_hood_Grey
+	M35a2_Tent_Grey
+	M35a2_Wheel_Grey
+	M35a2_Wheel_Grey
+	M35a2_Wheel_Grey
+	M35a2_WheelDouble_Grey
+	M35a2_WheelDouble_Grey
+	M35a2_WheelDouble_Grey
+	M35a2_WheelDouble_Grey
+	
+<VehicleParts> M35a2_Rust
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	M35a2_Doors_Driver_Rust
+	M35a2_Doors_coDriver_Rust
+	M35a2_Doors_trunk_Rust
+	M35a2_Doors_hood_Rust
+	M35a2_Tent_Rust
+	M35a2_Wheel_Rust
+	M35a2_Wheel_Rust
+	M35a2_Wheel_Rust
+	M35a2_WheelDouble_Rust
+	M35a2_WheelDouble_Rust
+	M35a2_WheelDouble_Rust
+	M35a2_WheelDouble_Rust
+	
+<VehicleParts> M35a2_Kamo
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	M35a2_Doors_Driver_Kamo
+	M35a2_Doors_coDriver_Kamo
+	M35a2_Doors_trunk_Kamo
+	M35a2_Doors_hood_Kamo
+	M35a2_Tent_Kamo
+	M35a2_Wheel_Kamo
+	M35a2_Wheel_Kamo
+	M35a2_Wheel_Kamo
+	M35a2_WheelDouble_Kamo
+	M35a2_WheelDouble_Kamo
+	M35a2_WheelDouble_Kamo
+	M35a2_WheelDouble_Kamo

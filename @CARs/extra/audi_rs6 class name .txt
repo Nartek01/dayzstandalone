@@ -1,0 +1,80 @@
+		//-------------------
+/* 1 */ Audi_RS6 
+		//-------------------
+		Audi_RS6_Doors_Driver
+		Audi_RS6_Doors_coDriver
+		Audi_RS6_Doors_cargo1
+		Audi_RS6_Doors_cargo2
+		Audi_RS6_Doors_hood 
+
+		//-------------------
+	
+		
+		Audi_RS6_Wheel
+		Audi_RS6_Wheel_black
+		Audi_RS6_Wheel_red
+		Audi_RS6_Wheel_blue
+		
+		SparkPlug
+		CarBattery
+		CarRadiator
+		HeadlightH7
+		HeadlightH7
+		
+	
+/* 2 */ Audi_RS6_black
+		//-------------------
+		Audi_RS6_Doors_Driver_black
+		Audi_RS6_Doors_coDriver_black
+		Audi_RS6_Doors_cargo1_black
+		Audi_RS6_Doors_cargo2_black
+		Audi_RS6_Doors_hood_black 
+
+		//-------------------
+
+/* 3 */ Audi_RS6_white
+		//-------------------
+		Audi_RS6_Doors_Driver_white
+		Audi_RS6_Doors_coDriver_white
+		Audi_RS6_Doors_cargo1_white
+		Audi_RS6_Doors_cargo2_white
+		Audi_RS6_Doors_hood_white 
+
+		//-------------------
+/* 4 */ Audi_RS6_red
+		//-------------------
+		Audi_RS6_Doors_Driver_red
+		Audi_RS6_Doors_coDriver_red
+		Audi_RS6_Doors_cargo1_red
+		Audi_RS6_Doors_cargo2_red
+		Audi_RS6_Doors_hood_red 
+
+		//-------------------		
+/* 5 */ Audi_RS6_chrome
+		//-------------------
+		Audi_RS6_Doors_Driver_chrome
+		Audi_RS6_Doors_coDriver_chrome
+		Audi_RS6_Doors_cargo1_chrome
+		Audi_RS6_Doors_cargo2_chrome
+		Audi_RS6_Doors_hood_chrome 
+
+		//-------------------
+/* 6 */ Audi_RS6_flecktarn
+		//-------------------
+		Audi_RS6_Doors_Driver_flecktarn
+		Audi_RS6_Doors_coDriver_flecktarn
+		Audi_RS6_Doors_cargo1_flecktarn
+		Audi_RS6_Doors_cargo2_flecktarn
+		Audi_RS6_Doors_hood_flecktarn 
+
+		//-------------------
+/* 7 */ Audi_RS6_WINTER
+		//-------------------
+		Audi_RS6_Doors_Driver_WINTER
+		Audi_RS6_Doors_coDriver_WINTER
+		Audi_RS6_Doors_cargo1_WINTER
+		Audi_RS6_Doors_cargo2_WINTER
+		Audi_RS6_Doors_hood_WINTER 
+
+		//-------------------		
+		

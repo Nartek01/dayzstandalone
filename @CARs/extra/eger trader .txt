@@ -1,0 +1,131 @@
+	<Category> Vehicles	
+		EGER,									V,		2000,	200
+		EGER_Pixel,								V,		2000,	200
+		EGER_Kamo,								V,		2000,	200
+		EGER_Green,								V,		2000,	200
+	
+
+	<Category> EGER Parts
+		EGER_Wheel,								*,		300,	100	
+		EGER_Wheel_2,							*,		300,	100
+		EGER_Doors_Driver,						*,		300,	100
+		EGER_Doors_coDriver,					*,		300,	100
+		EGER_Doors_cargo1,						*,		300,	100
+		EGER_Doors_cargo2,						*,		300,	100
+		EGER_Doors_hood,						*,		300,	100
+		EGER_Doors_trunk,						*,		300,	100
+		EGER_Tent,								*,		300,	100
+		
+		EGER_Pixel_Doors_Driver,				*,		300,	100
+		EGER_Pixel_Doors_coDriver,				*,		300,	100
+		EGER_Pixel_Doors_cargo1,				*,		300,	100
+		EGER_Pixel_Doors_cargo2,				*,		300,	100
+		EGER_Pixel_Doors_hood,					*,		300,	100
+		EGER_Pixel_Doors_trunk,					*,		300,	100
+		EGER_Pixel_Tent,						*,		300,	100
+		
+		EGER_Kamo_Doors_Driver,					*,		300,	100
+		EGER_Kamo_Doors_coDriver,				*,		300,	100
+		EGER_Kamo_Doors_cargo1,					*,		300,	100
+		EGER_Kamo_Doors_cargo2,					*,		300,	100
+		EGER_Kamo_Doors_hood,					*,		300,	100
+		EGER_Kamo_Doors_trunk,					*,		300,	100
+		EGER_Kamo_Tent,							*,		300,	100
+		
+		EGER_Green_Doors_Driver,				*,		300,	100
+		EGER_Green_Doors_coDriver,				*,		300,	100
+		EGER_Green_Doors_cargo1,				*,		300,	100
+		EGER_Green_Doors_cargo2,				*,		300,	100
+		EGER_Green_Doors_hood,					*,		300,	100
+		EGER_Green_Doors_trunk,					*,		300,	100
+		EGER_Green_Tent,						*,		300,	100
+	
+		
+
+<VehicleParts> EGER
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	EGER_Doors_Driver
+	EGER_Doors_coDriver
+	EGER_Doors_cargo1
+	EGER_Doors_cargo2
+	EGER_Doors_hood
+	EGER_Doors_trunk		
+	EGER_Tent
+	EGER_Wheel_2
+	EGER_Wheel_2
+	EGER_Wheel_2
+	EGER_Wheel_2
+	EGER_Wheel
+	EGER_Wheel
+	EGER_Wheel
+	EGER_Wheel
+	
+<VehicleParts> EGER_Pixel
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	EGER_Pixel_Doors_Driver
+	EGER_Pixel_Doors_coDriver
+	EGER_Pixel_Doors_cargo1
+	EGER_Pixel_Doors_cargo2
+	EGER_Pixel_Doors_hood
+	EGER_Pixel_Doors_trunk		
+	EGER_Pixel_Tent
+	EGER_Wheel_2
+	EGER_Wheel_2
+	EGER_Wheel_2
+	EGER_Wheel_2
+	EGER_Wheel
+	EGER_Wheel
+	EGER_Wheel
+	EGER_Wheel
+	
+<VehicleParts> EGER_Kamo
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	EGER_Kamo_Doors_Driver
+	EGER_Kamo_Doors_coDriver
+	EGER_Kamo_Doors_cargo1
+	EGER_Kamo_Doors_cargo2
+	EGER_Kamo_Doors_hood
+	EGER_Kamo_Doors_trunk		
+	EGER_Kamo_Tent
+	EGER_Wheel_2
+	EGER_Wheel_2
+	EGER_Wheel_2
+	EGER_Wheel_2
+	EGER_Wheel
+	EGER_Wheel
+	EGER_Wheel
+	EGER_Wheel
+	
+<VehicleParts> EGER_Green
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	EGER_Green_Doors_Driver
+	EGER_Green_Doors_coDriver
+	EGER_Green_Doors_cargo1
+	EGER_Green_Doors_cargo2
+	EGER_Green_Doors_hood
+	EGER_Green_Doors_trunk		
+	EGER_Green_Tent
+	EGER_Wheel_2
+	EGER_Wheel_2
+	EGER_Wheel_2
+	EGER_Wheel_2
+	EGER_Wheel
+	EGER_Wheel
+	EGER_Wheel
+	EGER_Wheel

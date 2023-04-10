@@ -1,0 +1,58 @@
+		//-------------------
+/* 1 */ BMW_X5 
+		//-------------------
+		BMW_X5_Doors_Driver
+		BMW_X5_Doors_coDriver
+		BMW_X5_Doors_cargo1
+		BMW_X5_Doors_cargo2
+		BMW_X5_Doors_hood 
+
+		//-------------------
+	
+		
+		BMW_X5_Wheel//x5
+		
+		SparkPlug
+		CarBattery
+		CarRadiator
+		HeadlightH7
+		HeadlightH7
+		
+	
+/* 2 */ BMW_X5_black
+		//-------------------
+		BMW_X5_Doors_Driver_black
+		BMW_X5_Doors_coDriver_black
+		BMW_X5_Doors_cargo1_black
+		BMW_X5_Doors_cargo2_black
+		BMW_X5_Doors_hood_black 
+
+		//-------------------
+
+/* 3 */ BMW_X5_white
+		//-------------------
+		BMW_X5_Doors_Driver_white
+		BMW_X5_Doors_coDriver_white
+		BMW_X5_Doors_cargo1_white
+		BMW_X5_Doors_cargo2_white
+		BMW_X5_Doors_hood_white 
+
+		//-------------------
+/* 4 */ BMW_X5_red
+		//-------------------
+		BMW_X5_Doors_Driver_red
+		BMW_X5_Doors_coDriver_red
+		BMW_X5_Doors_cargo1_red
+		BMW_X5_Doors_cargo2_red
+		BMW_X5_Doors_hood_red 	
+
+		//-------------------
+/* 5 */ BMW_X5_flecktarn
+		//-------------------
+		BMW_X5_Doors_Driver_flecktarn
+		BMW_X5_Doors_coDriver_flecktarn
+		BMW_X5_Doors_cargo1_flecktarn
+		BMW_X5_Doors_cargo2_flecktarn
+		BMW_X5_Doors_hood_flecktarn 
+
+		//-------------------

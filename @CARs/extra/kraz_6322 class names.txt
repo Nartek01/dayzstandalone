@@ -1,0 +1,25 @@
+1	Kraz_6322
+	Kraz_6322_Doors_Driver
+	Kraz_6322_Doors_coDriver
+	Kraz_6322_Doors_cargo1
+	Kraz_6322_Doors_hood
+
+2	Kraz_6322_Black
+	Kraz_6322_Doors_Driver_Black
+	Kraz_6322_Doors_coDriver_Black
+	Kraz_6322_Doors_cargo1_Black
+	Kraz_6322_Doors_hood_Black
+
+3	Kraz_6322_Rust
+	Kraz_6322_Doors_Driver_Rust
+	Kraz_6322_Doors_coDriver_Rust
+	Kraz_6322_Doors_cargo1_Rust
+	Kraz_6322_Doors_hood_Rust
+	
+4	Kraz_6322_kamo
+	Kraz_6322_Doors_Driver_kamo
+	Kraz_6322_Doors_coDriver_kamo
+	Kraz_6322_Doors_cargo1_kamo
+	Kraz_6322_Doors_hood_kamo
+	
+	Kraz_6322_Wheel

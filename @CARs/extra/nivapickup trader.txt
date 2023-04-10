@@ -1,0 +1,130 @@
+<Category> Niva Pickup
+		NivaPickup,								V,		80000,		15000
+		NivaPickup_blue,						V,		80000,		15000
+		NivaPickup_kamo,						V,		80000,		15000
+		NivaPickup_red,							V,		80000,		15000
+		NivaPickup_skul,						V,		80000,		15000
+		NivaPickup_kamo2,						V,		80000,		15000
+		
+<Category> Niva Pickup Parts
+		NivaPickup_Wheel,							*,		2500,	1100	
+		NivaPickup_Doors_Driver,					*,		300,	100
+		NivaPickup_Doors_Driver_blue,				*,		300,	100
+		NivaPickup_Doors_Driver_kamo,				*,		300,	100
+		NivaPickup_Doors_Driver_red,				*,		300,	100
+		NivaPickup_Doors_Driver_skul,				*,		300,	100
+		NivaPickup_Doors_Driver_kamo2,				*,		300,	100
+		NivaPickup_Doors_coDriver,					*,		300,	100
+		NivaPickup_Doors_coDriver_blue,				*,		300,	100
+		NivaPickup_Doors_coDriver_kamo,				*,		300,	100
+		NivaPickup_Doors_coDriver_red,				*,		300,	100
+		NivaPickup_Doors_coDriver_skul,				*,		300,	100
+		NivaPickup_Doors_coDriver_kamo2,			*,		300,	100
+		NivaPickup_Doors_hood,						*,		300,	100
+		NivaPickup_Doors_hood_blue,					*,		300,	100
+		NivaPickup_Doors_hood_kamo,					*,		300,	100
+		NivaPickup_Doors_hood_red,					*,		300,	100
+		NivaPickup_Doors_hood_skul,					*,		300,	100
+		NivaPickup_Doors_hood_kamo2,				*,		300,	100		
+		NivaPickup_Doors_trunk,						*,		300,	100
+		NivaPickup_Doors_trunk_blue,				*,		300,	100
+		NivaPickup_Doors_trunk_kamo,				*,		300,	100
+		NivaPickup_Doors_trunk_red,					*,		300,	100
+		NivaPickup_Doors_trunk_skul,				*,		300,	100
+		NivaPickup_Doors_trunk_kamo2,				*,		300,	100
+		
+<VehicleParts> NivaPickup
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	NivaPickup_Doors_Driver
+	NivaPickup_Doors_coDriver
+	NivaPickup_Doors_hood
+	NivaPickup_Doors_trunk
+	NivaPickup_Wheel
+	NivaPickup_Wheel
+	NivaPickup_Wheel
+	NivaPickup_Wheel
+	NivaPickup_Wheel
+	
+<VehicleParts> NivaPickup_blue
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	NivaPickup_Doors_Driver_blue
+	NivaPickup_Doors_coDriver_blue
+	NivaPickup_Doors_hood_blue
+	NivaPickup_Doors_trunk_blue
+	NivaPickup_Wheel
+	NivaPickup_Wheel
+	NivaPickup_Wheel
+	NivaPickup_Wheel
+	NivaPickup_Wheel
+	
+<VehicleParts> NivaPickup_kamo
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	NivaPickup_Doors_Driver_kamo
+	NivaPickup_Doors_coDriver_kamo
+	NivaPickup_Doors_hood_kamo
+	NivaPickup_Doors_trunk_kamo
+	NivaPickup_Wheel
+	NivaPickup_Wheel
+	NivaPickup_Wheel
+	NivaPickup_Wheel
+	NivaPickup_Wheel
+	
+<VehicleParts> NivaPickup_red
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	NivaPickup_Doors_Driver_red
+	NivaPickup_Doors_coDriver_red
+	NivaPickup_Doors_hood_red
+	NivaPickup_Doors_trunk_red
+	NivaPickup_Wheel
+	NivaPickup_Wheel
+	NivaPickup_Wheel
+	NivaPickup_Wheel
+	NivaPickup_Wheel
+	
+<VehicleParts> NivaPickup_skul
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	NivaPickup_Doors_Driver_skul
+	NivaPickup_Doors_coDriver_skul
+	NivaPickup_Doors_hood_skul
+	NivaPickup_Doors_trunk_skul
+	NivaPickup_Wheel
+	NivaPickup_Wheel
+	NivaPickup_Wheel
+	NivaPickup_Wheel
+	NivaPickup_Wheel
+	
+<VehicleParts> NivaPickup_kamo2
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	NivaPickup_Doors_Driver_kamo2
+	NivaPickup_Doors_coDriver_kamo2
+	NivaPickup_Doors_hood_kamo2
+	NivaPickup_Doors_trunk_kamo2
+	NivaPickup_Wheel
+	NivaPickup_Wheel
+	NivaPickup_Wheel
+	NivaPickup_Wheel
+	NivaPickup_Wheel	

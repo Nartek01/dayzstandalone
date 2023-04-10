@@ -1,0 +1,35 @@
+
+/* 1 */ PONTIAC 
+		//-------------------
+		PONTIAC_Doors_Driver
+		PONTIAC_Doors_coDriver
+		PONTIAC_Doors_hood 
+		PONTIAC_Doors_trunk
+		//-------------------
+/* 2 */ PONTIAC_blue 
+		//-------------------
+		PONTIAC_Doors_Driver_blue
+		PONTIAC_Doors_coDriver_blue
+		PONTIAC_Doors_hood_blue 
+		PONTIAC_Doors_trunk_blue
+		//-------------------	
+/* 3 */ PONTIAC_rust 
+		//-------------------
+		PONTIAC_Doors_Driver_rust
+		PONTIAC_Doors_coDriver_rust
+		PONTIAC_Doors_hood_rust 
+		PONTIAC_Doors_trunk_rust
+		//-------------------	
+		
+		PONTIAC_Wheel
+		PONTIAC_Wheel
+		PONTIAC_Wheel
+		PONTIAC_Wheel
+		PONTIAC_Wheel
+		SparkPlug
+		CarBattery
+		CarRadiator
+		HeadlightH7
+		HeadlightH7
+		
+	

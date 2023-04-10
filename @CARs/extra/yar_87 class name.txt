@@ -1,0 +1,63 @@
+		//-------------------
+/* 1 */ YAR_87
+		//-------------------
+		YAR_87_Doors_Driver
+		YAR_87_Doors_coDriver
+		YAR_87_Doors_hood
+		YAR_87_Doors_trunk
+		//-------------------
+		
+/* 2 */  YAR_87_blue
+		//-------------------
+		YAR_87_Doors_Driver_blue
+		YAR_87_Doors_coDriver_blue
+		YAR_87_Doors_hood_blue
+		YAR_87_Doors_trunk_blue
+		
+		//-------------------	
+		
+/* 3 */  YAR_87_kamo
+		//-------------------
+		YAR_87_Doors_Driver_kamo
+		YAR_87_Doors_coDriver_kamo
+		YAR_87_Doors_hood_kamo
+		YAR_87_Doors_trunk_kamo
+		
+		//-------------------		
+		
+/* 4 */  YAR_87_red
+		//-------------------
+		YAR_87_Doors_Driver_red
+		YAR_87_Doors_coDriver_red
+		YAR_87_Doors_hood_red
+		YAR_87_Doors_trunk_red
+		
+		//-------------------	
+		
+/* 5 */  YAR_87_rust
+		//-------------------
+		YAR_87_Doors_Driver_rust
+		YAR_87_Doors_coDriver_rust
+		YAR_87_Doors_hood_rust
+		YAR_87_Doors_trunk_rust
+		
+		//-------------------	
+		
+/* 6 */ YAR_87_kamo2
+		//-------------------
+		YAR_87_Doors_Driver_kamo2
+		YAR_87_Doors_coDriver_kamo2
+		YAR_87_Doors_hood_kamo2
+		YAR_87_Doors_trunk_kamo2
+		
+		//-------------------
+		
+		
+		YAR_87_Wheel //x5
+		SparkPlug
+		CarBattery
+		CarRadiator
+		HeadlightH7
+		HeadlightH7
+	
+	

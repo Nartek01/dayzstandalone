@@ -1,0 +1,122 @@
+	<Category> Vehicles	
+		Gaz71,									V,		200,	200
+		Gaz71_RUST,								V,		200,	200
+		Gaz71_WINTER,							V,		200,	200	
+		Gaz71_Black,							V,		200,	200	
+
+	<Category> Gaz71 Parts
+		Gaz71_Wheel,							*,		250,	100	
+		Gaz71_Doors_Driver,						*,		300,	100
+		Gaz71_Doors_coDriver,					*,		300,	100
+		Gaz71_Doors_trunk,						*,		300,	100
+		Gaz71_Doors_hood,						*,		300,	100
+		Gaz71_Doors_Driver_RUST,				*,		300,	100
+		Gaz71_Doors_coDriver_RUST,				*,		300,	100
+		Gaz71_Doors_trunk_RUST,					*,		300,	100
+		Gaz71_Doors_hood_RUST,					*,		300,	100
+		Gaz71_Doors_Driver_WINTER,				*,		300,	100
+		Gaz71_Doors_coDriver_WINTER,			*,		300,	100
+		Gaz71_Doors_trunk_WINTER,				*,		300,	100
+		Gaz71_Doors_hood_WINTER,				*,		300,	100
+		Gaz71_Doors_Driver_Black,				*,		300,	100
+		Gaz71_Doors_coDriver_Black,			*,		300,	100
+		Gaz71_Doors_trunk_Black,				*,		300,	100
+		Gaz71_Doors_hood_Black,				*,		300,	100
+		
+
+<VehicleParts> Gaz71
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	HeadlightH7
+	HeadlightH7
+	Gaz71_Doors_Driver
+	Gaz71_Doors_coDriver
+	Gaz71_Doors_hood
+	Gaz71_Doors_trunk
+	Gaz71_tent
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel
+	
+<VehicleParts> Gaz71_RUST
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	HeadlightH7
+	HeadlightH7
+	Gaz71_Doors_Driver_RUST
+	Gaz71_Doors_coDriver_RUST
+	Gaz71_Doors_hood_RUST
+	Gaz71_tent_RUST
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel
+	
+<VehicleParts> Gaz71_WINTER
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	HeadlightH7
+	HeadlightH7
+	Gaz71_Doors_Driver_WINTER
+	Gaz71_Doors_coDriver_WINTER
+	Gaz71_Doors_hood_WINTER 
+	Gaz71_Doors_trunk_WINTER 
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel
+	
+<VehicleParts> Gaz71_Black
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	HeadlightH7
+	HeadlightH7
+	Gaz71_Doors_Driver_Black
+	Gaz71_Doors_coDriver_Black
+	Gaz71_Doors_hood_Black 
+	Gaz71_Doors_trunk_Black 
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel
+	Gaz71_Wheel

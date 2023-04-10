@@ -1,0 +1,60 @@
+Kamaz_Typhoon 
+
+Kamaz_Typhoon_Doors_Driver
+Kamaz_Typhoon_Doors_coDriver
+Kamaz_Typhoon_Doors_cargo1
+Kamaz_Typhoon_Doors_trunk
+Kamaz_Typhoon_Tent
+		
+Kamaz_Typhoon_white
+
+Kamaz_Typhoon_Doors_Driver_white
+Kamaz_Typhoon_Doors_coDriver_white
+Kamaz_Typhoon_Doors_cargo1_white
+Kamaz_Typhoon_Doors_trunk_white
+Kamaz_Typhoon_Tent_white
+
+Kamaz_Typhoon_green
+
+Kamaz_Typhoon_Doors_Driver_green
+Kamaz_Typhoon_Doors_coDriver_green
+Kamaz_Typhoon_Doors_cargo1_green
+Kamaz_Typhoon_Doors_trunk_green
+Kamaz_Typhoon_Tent_green
+
+Kamaz_Typhoon_black
+
+Kamaz_Typhoon_Doors_Driver_black
+Kamaz_Typhoon_Doors_coDriver_black
+Kamaz_Typhoon_Doors_cargo1_black
+Kamaz_Typhoon_Doors_trunk_black
+Kamaz_Typhoon_Tent_black
+
+Kamaz_Typhoon_rust
+
+Kamaz_Typhoon_Doors_Driver_rust
+Kamaz_Typhoon_Doors_coDriver_rust
+Kamaz_Typhoon_Doors_cargo1_rust
+Kamaz_Typhoon_Doors_trunk_rust
+Kamaz_Typhoon_Tent_rust
+
+Kamaz_Typhoon_flecktarn
+
+Kamaz_Typhoon_Doors_Driver_flecktarn
+Kamaz_Typhoon_Doors_coDriver_flecktarn
+Kamaz_Typhoon_Doors_cargo1_flecktarn
+Kamaz_Typhoon_Doors_trunk_flecktarn
+Kamaz_Typhoon_Tent_flecktarn
+
+Kamaz_Typhoon_Wheel
+		
+		SparkPlug
+		TruckBattery
+		CarRadiator
+		HeadlightH7
+		HeadlightH7
+	
+
+	
+	
+	

@@ -1,0 +1,56 @@
+		//-------------------
+/* 1 */ BMP3 
+		//-------------------
+		BMP3_Doors_Driver
+		BMP3_Doors_coDriver
+		BMP3_Doors_hood 
+		
+		//-------------------	
+		
+/* 2 */ BMP3_RUST
+		//-------------------
+		BMP3_Doors_Driver_RUST
+		BMP3_Doors_coDriver_RUST
+		BMP3_Doors_hood_RUST 
+		
+		//-------------------
+
+/* 3 */ BMP3_WINTER
+		//-------------------
+		BMP3_Doors_Driver_WINTER
+		BMP3_Doors_coDriver_WINTER
+		BMP3_Doors_hood_WINTER 
+		
+		//-------------------
+		
+/* 4 */ BMP3_Pixel
+		//-------------------
+		BMP3_Doors_Driver_Pixel
+		BMP3_Doors_coDriver_Pixel
+		BMP3_Doors_hood_Pixel 
+		
+		//-------------------
+		
+/* 5 */ BMP3_Woodland
+		//-------------------
+		BMP3_Doors_Driver_Woodland
+		BMP3_Doors_coDriver_Woodland
+		BMP3_Doors_hood_Woodland 
+		
+		//-------------------
+
+		AmmoRoket
+		BMP3_Wheel  //12
+		SparkPlug
+		TruckBattery ///!!!
+		CarRadiator
+		HeadlightH7
+		HeadlightH7
+		
+	
+
+	
+
+
+
+	

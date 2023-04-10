@@ -1,0 +1,73 @@
+		//-------------------
+/* 1 */ SUV 
+		//-------------------
+		SUV_Doors_Driver
+		SUV_Doors_coDriver
+		SUV_Doors_cargo1
+		SUV_Doors_cargo2
+		SUV_Doors_hood 
+		SUV_Doors_trunk
+
+		//-------------------
+/* 2 */ SUV_red 
+		//-------------------
+		SUV_Doors_Driver_red
+		SUV_Doors_coDriver_red
+		SUV_Doors_cargo1_red
+		SUV_Doors_cargo2_red
+		SUV_Doors_hood_red
+		SUV_Doors_trunk_red
+
+		//-------------------	
+/* 3 */ SUV_blue 
+		//-------------------
+		SUV_Doors_Driver_blue
+		SUV_Doors_coDriver_blue
+		SUV_Doors_cargo1_blue
+		SUV_Doors_cargo2_blue
+		SUV_Doors_hood_blue 
+		SUV_Doors_trunk_blue
+
+		//-------------------
+/* 4 */ SUV_white 
+		//-------------------
+		SUV_Doors_Driver_white
+		SUV_Doors_coDriver_white
+		SUV_Doors_cargo1_white
+		SUV_Doors_cargo2_white
+		SUV_Doors_hood_white 
+		SUV_Doors_trunk_white
+
+		//-------------------
+/* 5 */ SUV_kamo
+		//-------------------
+		SUV_Doors_Driver_kamo
+		SUV_Doors_coDriver_kamo
+		SUV_Doors_cargo1_kamo
+		SUV_Doors_cargo2_kamo
+		SUV_Doors_hood_kamo 
+		SUV_Doors_trunk_kamo
+
+		//-------------------	
+/* 6 */ SUV_WINTER
+		//-------------------
+		SUV_Doors_Driver_WINTER
+		SUV_Doors_coDriver_WINTER
+		SUV_Doors_cargo1_WINTER
+		SUV_Doors_cargo2_WINTER
+		SUV_Doors_hood_WINTER 
+		SUV_Doors_trunk_WINTER
+
+		//-------------------		
+		SUV_Wheel
+		SUV_Wheel
+		SUV_Wheel
+		SUV_Wheel
+		SUV_Wheel
+		SparkPlug
+		CarBattery
+		CarRadiator
+		HeadlightH7
+		HeadlightH7
+		
+	

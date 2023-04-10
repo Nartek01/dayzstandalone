@@ -1,0 +1,166 @@
+<Category> Land Cruiser
+		Oshkosh,							V,		80000,		15000
+		Oshkosh_black,						V,		80000,		15000
+		Oshkosh_grey,						V,		80000,		15000
+		Oshkosh_green,						V,		80000,		15000
+		Oshkosh_pixel,						V,		80000,		15000
+		Oshkosh_flecktarn,					V,		80000,		15000
+		
+<Category> Land Cruiser Parts
+		Oshkosh_Wheel,							*,		2500,	1100	
+		Oshkosh_Doors_Driver,					*,		300,	100
+		Oshkosh_Doors_Driver_black,				*,		300,	100
+		Oshkosh_Doors_Driver_grey,				*,		300,	100
+		Oshkosh_Doors_Driver_green,				*,		300,	100
+		Oshkosh_Doors_Driver_pixel,				*,		300,	100
+		Oshkosh_Doors_Driver_flecktarn,			*,		300,	100
+		Oshkosh_Doors_coDriver,					*,		300,	100
+		Oshkosh_Doors_coDriver_black,			*,		300,	100
+		Oshkosh_Doors_coDriver_grey,			*,		300,	100
+		Oshkosh_Doors_coDriver_green,			*,		300,	100
+		Oshkosh_Doors_coDriver_pixel,			*,		300,	100
+		Oshkosh_Doors_coDriver_flecktarn,		*,		300,	100
+		Oshkosh_Doors_hood,						*,		300,	100
+		Oshkosh_Doors_hood_black,				*,		300,	100
+		Oshkosh_Doors_hood_grey,				*,		300,	100
+		Oshkosh_Doors_hood_green,				*,		300,	100
+		Oshkosh_Doors_hood_pixel,				*,		300,	100
+		Oshkosh_Doors_hood_flecktarn,			*,		300,	100
+		Oshkosh_Doors_cargo1,					*,		300,	100
+		Oshkosh_Doors_cargo1_black,				*,		300,	100
+		Oshkosh_Doors_cargo1_grey,				*,		300,	100
+		Oshkosh_Doors_cargo1_green,				*,		300,	100
+		Oshkosh_Doors_cargo1_pixel,				*,		300,	100
+		Oshkosh_Doors_cargo1_flecktarn,			*,		300,	100
+		Oshkosh_Doors_cargo2,					*,		300,	100
+		Oshkosh_Doors_cargo2_black,				*,		300,	100
+		Oshkosh_Doors_cargo2_grey,				*,		300,	100
+		Oshkosh_Doors_cargo2_green,				*,		300,	100
+		Oshkosh_Doors_cargo2_pixel,				*,		300,	100
+		Oshkosh_Doors_cargo2_flecktarn,			*,		300,	100
+		Oshkosh_Doors_cargo3,					*,		300,	100
+		Oshkosh_Doors_cargo3_black,				*,		300,	100
+		Oshkosh_Doors_cargo3_grey,				*,		300,	100
+		Oshkosh_Doors_cargo3_green,				*,		300,	100
+		Oshkosh_Doors_cargo3_pixel,				*,		300,	100
+		Oshkosh_Doors_cargo3_flecktarn,			*,		300,	100
+		Oshkosh_Doors_trunk,					*,		300,	100
+		Oshkosh_Doors_trunk_black,				*,		300,	100
+		Oshkosh_Doors_trunk_grey,				*,		300,	100
+		Oshkosh_Doors_trunk_green,				*,		300,	100
+		Oshkosh_Doors_trunk_pixel,				*,		300,	100
+		Oshkosh_Doors_trunk_flecktarn,				*,		300,	100
+		
+<VehicleParts> Oshkosh
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Oshkosh_Doors_Driver
+	Oshkosh_Doors_coDriver
+	Oshkosh_Doors_hood
+	Oshkosh_Doors_cargo1
+	Oshkosh_Doors_cargo2
+	Oshkosh_Doors_cargo3
+	Oshkosh_Doors_trunk
+	Oshkosh_Wheel
+	Oshkosh_Wheel
+	Oshkosh_Wheel
+	Oshkosh_Wheel
+	Oshkosh_Wheel
+	
+<VehicleParts> Oshkosh_black
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Oshkosh_Doors_Driver_black
+	Oshkosh_Doors_coDriver_black
+	Oshkosh_Doors_hood_black
+	Oshkosh_Doors_cargo1_black
+	Oshkosh_Doors_cargo2_black
+	Oshkosh_Doors_cargo3_black
+	Oshkosh_Doors_trunk_black
+	Oshkosh_Wheel
+	Oshkosh_Wheel
+	Oshkosh_Wheel
+	Oshkosh_Wheel
+	Oshkosh_Wheel
+	
+<VehicleParts> Oshkosh_grey
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Oshkosh_Doors_Driver_grey
+	Oshkosh_Doors_coDriver_grey
+	Oshkosh_Doors_hood_grey
+	Oshkosh_Doors_cargo1_grey
+	Oshkosh_Doors_cargo2_grey
+	Oshkosh_Doors_cargo3_grey
+	Oshkosh_Doors_trunk_grey
+	Oshkosh_Wheel
+	Oshkosh_Wheel
+	Oshkosh_Wheel
+	Oshkosh_Wheel
+	Oshkosh_Wheel
+	
+<VehicleParts> Oshkosh_green
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Oshkosh_Doors_Driver_green
+	Oshkosh_Doors_coDriver_green
+	Oshkosh_Doors_hood_green
+	Oshkosh_Doors_cargo1_green
+	Oshkosh_Doors_cargo2_green
+	Oshkosh_Doors_cargo3_green
+	Oshkosh_Doors_trunk_green
+	Oshkosh_Wheel
+	Oshkosh_Wheel
+	Oshkosh_Wheel
+	Oshkosh_Wheel
+	Oshkosh_Wheel
+	
+<VehicleParts> Oshkosh_pixel
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Oshkosh_Doors_Driver_pixel
+	Oshkosh_Doors_coDriver_pixel
+	Oshkosh_Doors_hood_pixel
+	Oshkosh_Doors_cargo1_pixel
+	Oshkosh_Doors_cargo2_pixel
+	Oshkosh_Doors_cargo3_pixel
+	Oshkosh_Doors_trunk_pixel
+	Oshkosh_Wheel
+	Oshkosh_Wheel
+	Oshkosh_Wheel
+	Oshkosh_Wheel
+	Oshkosh_Wheel
+	
+<VehicleParts> Oshkosh_flecktarn
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Oshkosh_Doors_Driver_flecktarn
+	Oshkosh_Doors_coDriver_flecktarn
+	Oshkosh_Doors_hood_flecktarn
+	Oshkosh_Doors_cargo1_flecktarn
+	Oshkosh_Doors_cargo2_flecktarn
+	Oshkosh_Doors_cargo3_flecktarn
+	Oshkosh_Doors_trunk_flecktarn
+	Oshkosh_Wheel
+	Oshkosh_Wheel
+	Oshkosh_Wheel
+	Oshkosh_Wheel
+	Oshkosh_Wheel

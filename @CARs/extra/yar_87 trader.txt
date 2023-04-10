@@ -1,0 +1,130 @@
+<Category> Niva Pickup
+		YAR_87,								V,		80000,		15000
+		YAR_87_blue,						V,		80000,		15000
+		YAR_87_kamo,						V,		80000,		15000
+		YAR_87_red,							V,		80000,		15000
+		YAR_87_rust,						V,		80000,		15000
+		YAR_87_kamo2,						V,		80000,		15000
+		
+<Category> Niva Pickup Parts
+		YAR_87_Wheel,							*,		2500,	1100	
+		YAR_87_Doors_Driver,					*,		300,	100
+		YAR_87_Doors_Driver_blue,				*,		300,	100
+		YAR_87_Doors_Driver_kamo,				*,		300,	100
+		YAR_87_Doors_Driver_red,				*,		300,	100
+		YAR_87_Doors_Driver_rust,				*,		300,	100
+		YAR_87_Doors_Driver_kamo2,				*,		300,	100
+		YAR_87_Doors_coDriver,					*,		300,	100
+		YAR_87_Doors_coDriver_blue,				*,		300,	100
+		YAR_87_Doors_coDriver_kamo,				*,		300,	100
+		YAR_87_Doors_coDriver_red,				*,		300,	100
+		YAR_87_Doors_coDriver_rust,				*,		300,	100
+		YAR_87_Doors_coDriver_kamo2,			*,		300,	100
+		YAR_87_Doors_hood,						*,		300,	100
+		YAR_87_Doors_hood_blue,					*,		300,	100
+		YAR_87_Doors_hood_kamo,					*,		300,	100
+		YAR_87_Doors_hood_red,					*,		300,	100
+		YAR_87_Doors_hood_rust,					*,		300,	100
+		YAR_87_Doors_hood_kamo2,				*,		300,	100		
+		YAR_87_Doors_trunk,						*,		300,	100
+		YAR_87_Doors_trunk_blue,				*,		300,	100
+		YAR_87_Doors_trunk_kamo,				*,		300,	100
+		YAR_87_Doors_trunk_red,					*,		300,	100
+		YAR_87_Doors_trunk_rust,				*,		300,	100
+		YAR_87_Doors_trunk_kamo2,				*,		300,	100
+		
+<VehicleParts> YAR_87
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	YAR_87_Doors_Driver
+	YAR_87_Doors_coDriver
+	YAR_87_Doors_hood
+	YAR_87_Doors_trunk
+	YAR_87_Wheel
+	YAR_87_Wheel
+	YAR_87_Wheel
+	YAR_87_Wheel
+	YAR_87_Wheel
+	
+<VehicleParts> YAR_87_blue
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	YAR_87_Doors_Driver_blue
+	YAR_87_Doors_coDriver_blue
+	YAR_87_Doors_hood_blue
+	YAR_87_Doors_trunk_blue
+	YAR_87_Wheel
+	YAR_87_Wheel
+	YAR_87_Wheel
+	YAR_87_Wheel
+	YAR_87_Wheel
+	
+<VehicleParts> YAR_87_kamo
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	YAR_87_Doors_Driver_kamo
+	YAR_87_Doors_coDriver_kamo
+	YAR_87_Doors_hood_kamo
+	YAR_87_Doors_trunk_kamo
+	YAR_87_Wheel
+	YAR_87_Wheel
+	YAR_87_Wheel
+	YAR_87_Wheel
+	YAR_87_Wheel
+	
+<VehicleParts> YAR_87_red
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	YAR_87_Doors_Driver_red
+	YAR_87_Doors_coDriver_red
+	YAR_87_Doors_hood_red
+	YAR_87_Doors_trunk_red
+	YAR_87_Wheel
+	YAR_87_Wheel
+	YAR_87_Wheel
+	YAR_87_Wheel
+	YAR_87_Wheel
+	
+<VehicleParts> YAR_87_rust
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	YAR_87_Doors_Driver_rust
+	YAR_87_Doors_coDriver_rust
+	YAR_87_Doors_hood_rust
+	YAR_87_Doors_trunk_rust
+	YAR_87_Wheel
+	YAR_87_Wheel
+	YAR_87_Wheel
+	YAR_87_Wheel
+	YAR_87_Wheel
+	
+<VehicleParts> YAR_87_kamo2
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	YAR_87_Doors_Driver_kamo2
+	YAR_87_Doors_coDriver_kamo2
+	YAR_87_Doors_hood_kamo2
+	YAR_87_Doors_trunk_kamo2
+	YAR_87_Wheel
+	YAR_87_Wheel
+	YAR_87_Wheel
+	YAR_87_Wheel
+	YAR_87_Wheel	

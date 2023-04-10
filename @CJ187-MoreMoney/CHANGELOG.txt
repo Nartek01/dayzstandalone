@@ -1,0 +1,4 @@
+
+		HOTFIX	4.05 - 07.03.2023
+		
+*fixed* compatibility issues with modded items inherit from paper class.

@@ -1,0 +1,117 @@
+<Category> Vehicles	
+	UAZ469_offroad, 									V,		200,	200
+	UAZ469_offroad_Blue,								V,		200,	200
+	UAZ469_offroad_Yellow,								V,		200,	200
+	UAZ469_offroad_Red,									V,		200,	200
+
+<Category> UAZ469_offroad Parts
+	UAZ469_offroad_Wheel,								*,		250,	100
+	UAZ469_offroad_Doors_Driver,						*,		250,	100
+	UAZ469_offroad_Doors_coDriver,						*,		250,	100
+	UAZ469_offroad_Doors_cargo1,						*,		250,	100
+	UAZ469_offroad_Doors_cargo2,						*,		250,	100 
+	UAZ469_offroad_Doors_cargo3,						*,		250,	100
+	UAZ469_offroad_Doors_hood,							*,		250,	100
+	UAZ469_offroad_Doors_trunk,							*,		250,	100
+	UAZ469_offroad_Doors_Driver_Blue,					*,		250,	100
+	UAZ469_offroad_Doors_coDriver_Blue,					*,		250,	100
+	UAZ469_offroad_Doors_cargo1_Blue,					*,		250,	100
+	UAZ469_offroad_Doors_cargo2_Blue,					*,		250,	100 
+	UAZ469_offroad_Doors_cargo3_Blue,					*,		250,	100
+	UAZ469_offroad_Doors_hood_Blue,						*,		250,	100 
+	UAZ469_offroad_Doors_trunk_Blue,					*,		250,	100
+	UAZ469_offroad_Doors_Driver_Yellow,					*,		250,	100
+	UAZ469_offroad_Doors_coDriver_Yellow,				*,		250,	100
+	UAZ469_offroad_Doors_cargo1_Yellow,					*,		250,	100
+	UAZ469_offroad_Doors_cargo2_Yellow,					*,		250,	100 
+	UAZ469_offroad_Doors_cargo3_Yellow,					*,		250,	100
+	UAZ469_offroad_Doors_hood_Yellow,					*,		250,	100 
+	UAZ469_offroad_Doors_trunk_Yellow,					*,		250,	100
+	UAZ469_offroad_Doors_Driver_Red,					*,		250,	100
+	UAZ469_offroad_Doors_coDriver_Red,					*,		250,	100
+	UAZ469_offroad_Doors_cargo1_Red,					*,		250,	100
+	UAZ469_offroad_Doors_cargo2_Red,					*,		250,	100 
+	UAZ469_offroad_Doors_cargo3_Red,					*,		250,	100
+	UAZ469_offroad_Doors_hood_Red,						*,		250,	100
+	UAZ469_offroad_Doors_trunk_Red,						*,		250,	100
+
+
+
+
+<VehicleParts> UAZ469_offroad
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	UAZ469_offroad_Doors_Driver
+	UAZ469_offroad_Doors_coDriver
+	UAZ469_offroad_Doors_cargo1
+	UAZ469_offroad_Doors_cargo2
+	UAZ469_offroad_Doors_cargo3
+	UAZ469_offroad_Doors_hood
+	UAZ469_offroad_Doors_trunk
+	UAZ469_offroad_Wheel
+	UAZ469_offroad_Wheel
+	UAZ469_offroad_Wheel
+	UAZ469_offroad_Wheel
+	UAZ469_offroad_Wheel
+
+<VehicleParts> UAZ469_offroad_Blue
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	UAZ469_offroad_Doors_Driver_Blue
+	UAZ469_offroad_Doors_coDriver_Blue
+	UAZ469_offroad_Doors_cargo1_Blue
+	UAZ469_offroad_Doors_cargo2_Blue
+	UAZ469_offroad_Doors_cargo3_Blue
+	UAZ469_offroad_Doors_hood_Blue
+	UAZ469_offroad_Doors_trunk_Blue
+	UAZ469_offroad_Wheel
+	UAZ469_offroad_Wheel
+	UAZ469_offroad_Wheel
+	UAZ469_offroad_Wheel
+	UAZ469_offroad_Wheel
+
+<VehicleParts> UAZ469_offroad_Yellow
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	UAZ469_offroad_Doors_Driver_Yellow
+	UAZ469_offroad_Doors_coDriver_Yellow
+	UAZ469_offroad_Doors_cargo1_Yellow
+	UAZ469_offroad_Doors_cargo2_Yellow
+	UAZ469_offroad_Doors_cargo3_Yellow
+	UAZ469_offroad_Doors_hood_Yellow
+	UAZ469_offroad_Doors_trunk_Yellow
+	UAZ469_offroad_Wheel
+	UAZ469_offroad_Wheel
+	UAZ469_offroad_Wheel
+	UAZ469_offroad_Wheel
+	UAZ469_offroad_Wheel
+
+<VehicleParts> UAZ469_offroad_Red
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	UAZ469_offroad_Doors_Driver_Red
+	UAZ469_offroad_Doors_coDriver_Red
+	UAZ469_offroad_Doors_cargo1_Red
+	UAZ469_offroad_Doors_cargo2_Red
+	UAZ469_offroad_Doors_cargo3_Red
+	UAZ469_offroad_Doors_hood_Red
+	UAZ469_offroad_Doors_trunk_Red
+	UAZ469_offroad_Wheel
+	UAZ469_offroad_Wheel
+	UAZ469_offroad_Wheel
+	UAZ469_offroad_Wheel
+	UAZ469_offroad_Wheel	
+	
+	

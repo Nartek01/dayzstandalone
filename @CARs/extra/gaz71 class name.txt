@@ -1,0 +1,52 @@
+		//-------------------
+/* 1 */ Gaz71 
+		//-------------------
+		Gaz71_Doors_Driver
+		Gaz71_Doors_coDriver
+		Gaz71_Doors_hood 
+		Gaz71_Doors_trunk
+		
+		//-------------------	
+		
+/* 2 */ Gaz71_RUST
+		//-------------------
+		Gaz71_Doors_Driver_RUST
+		Gaz71_Doors_coDriver_RUST
+		Gaz71_Doors_hood_RUST 
+		Gaz71_Doors_trunk_RUST
+		
+		//-------------------
+
+/* 3 */ Gaz71_WINTER
+		//-------------------
+		Gaz71_Doors_Driver_WINTER
+		Gaz71_Doors_coDriver_WINTER
+		Gaz71_Doors_hood_WINTER 
+		Gaz71_Doors_trunk_WINTER
+		
+		//-------------------
+		
+/* 4 */ Gaz71_Black
+		//-------------------
+		Gaz71_Doors_Driver_Black
+		Gaz71_Doors_coDriver_Black
+		Gaz71_Doors_hood_Black 
+		Gaz71_Doors_trunk_Black
+		
+		//-------------------
+
+		
+		Gaz71_Wheel  //12
+		SparkPlug
+		TruckBattery ///!!!
+		CarRadiator
+		HeadlightH7
+		HeadlightH7
+		
+	
+
+	
+
+
+
+	

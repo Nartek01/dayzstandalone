@@ -1,0 +1,93 @@
+		//-------------------
+/* 1 */ LandCruiser
+		//-------------------
+		LandCruiser_Doors_Driver
+		LandCruiser_Doors_coDriver
+		LandCruiser_Doors_hood
+		LandCruiser_Doors_cargo1
+		LandCruiser_Doors_cargo2
+		LandCruiser_Doors_cargo3
+		LandCruiser_Doors_cargo4
+		//-------------------
+		
+/* 2 */  LandCruiser_blue
+		//-------------------
+		LandCruiser_Doors_Driver_blue
+		LandCruiser_Doors_coDriver_blue
+		LandCruiser_Doors_hood_blue
+		LandCruiser_Doors_cargo1_blue
+		LandCruiser_Doors_cargo2_blue
+		LandCruiser_Doors_cargo3_blue
+		LandCruiser_Doors_cargo4_blue
+		
+		//-------------------	
+		
+/* 3 */  LandCruiser_kamo
+		//-------------------
+		LandCruiser_Doors_Driver_kamo
+		LandCruiser_Doors_coDriver_kamo
+		LandCruiser_Doors_hood_kamo
+		LandCruiser_Doors_cargo1_kamo
+		LandCruiser_Doors_cargo2_kamo
+		LandCruiser_Doors_cargo3_kamo
+		LandCruiser_Doors_cargo4_kamo
+		
+		//-------------------		
+		
+/* 4 */  LandCruiser_red
+		//-------------------
+		LandCruiser_Doors_Driver_red
+		LandCruiser_Doors_coDriver_red
+		LandCruiser_Doors_hood_red
+		LandCruiser_Doors_cargo1_red
+		LandCruiser_Doors_cargo2_red
+		LandCruiser_Doors_cargo3_red
+		LandCruiser_Doors_cargo4_red
+		
+		//-------------------	
+		
+/* 5 */  LandCruiser_skul
+		//-------------------
+		LandCruiser_Doors_Driver_skul
+		LandCruiser_Doors_coDriver_skul
+		LandCruiser_Doors_hood_skul
+		LandCruiser_Doors_cargo1_skul
+		LandCruiser_Doors_cargo2_skul
+		LandCruiser_Doors_cargo3_skul
+		LandCruiser_Doors_cargo4_skul
+		
+		//-------------------	
+		
+/* 6 */  LandCruiser_white
+		//-------------------
+		LandCruiser_Doors_Driver_white
+		LandCruiser_Doors_coDriver_white
+		LandCruiser_Doors_hood_white
+		LandCruiser_Doors_cargo1_white
+		LandCruiser_Doors_cargo2_white
+		LandCruiser_Doors_cargo3_white
+		LandCruiser_Doors_cargo4_white
+		
+		//-------------------	
+		
+/* 7 */  LandCruiser_kamo2
+		//-------------------
+		LandCruiser_Doors_Driver_kamo2
+		LandCruiser_Doors_coDriver_kamo2
+		LandCruiser_Doors_hood_kamo2
+		LandCruiser_Doors_cargo1_kamo2
+		LandCruiser_Doors_cargo2_kamo2
+		LandCruiser_Doors_cargo3_kamo2
+		LandCruiser_Doors_cargo4_kamo2
+		
+		//-------------------
+		
+		
+		LandCruiser_Wheel //x6
+		SparkPlug
+		CarBattery
+		CarRadiator
+		HeadlightH7
+		HeadlightH7
+	
+	

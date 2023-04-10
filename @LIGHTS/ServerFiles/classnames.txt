@@ -1,0 +1,9 @@
+NM_KeroseneLamp_2
+NM_KeroseneLamp
+NM_CampFire_Empty
+NM_CampFire
+NM_Torch
+NM_StreetLamp
+NM_Lamp
+NM_IndustrialLamp
+NM_LightTower

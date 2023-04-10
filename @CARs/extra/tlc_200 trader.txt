@@ -1,0 +1,172 @@
+<Category> Toyota Land Cruiser
+		TLC_200,							V,		80000,		15000
+		TLC_200_blue,						V,		80000,		15000
+		TLC_200_kamo,						V,		80000,		15000
+		TLC_200_red,						V,		80000,		15000
+		TLC_200_white,						V,		80000,		15000
+		TLC_200_kamo2,						V,		80000,		15000
+		
+<Category> Toyota Land Cruiser Parts
+		TLC_200_Wheel,							*,		2500,	1100	
+		TLC_200_Doors_Driver,					*,		300,	100
+		TLC_200_Doors_Driver_blue,				*,		300,	100
+		TLC_200_Doors_Driver_kamo,				*,		300,	100
+		TLC_200_Doors_Driver_red,				*,		300,	100
+		TLC_200_Doors_Driver_white,				*,		300,	100
+		TLC_200_Doors_Driver_kamo2,				*,		300,	100
+		TLC_200_Doors_coDriver,					*,		300,	100
+		TLC_200_Doors_coDriver_blue,			*,		300,	100
+		TLC_200_Doors_coDriver_kamo,			*,		300,	100
+		TLC_200_Doors_coDriver_red,				*,		300,	100
+		TLC_200_Doors_coDriver_white,			*,		300,	100
+		TLC_200_Doors_coDriver_kamo2,			*,		300,	100
+		TLC_200_Doors_hood,						*,		300,	100
+		TLC_200_Doors_hood_blue,				*,		300,	100
+		TLC_200_Doors_hood_kamo,				*,		300,	100
+		TLC_200_Doors_hood_red,					*,		300,	100
+		TLC_200_Doors_hood_white,				*,		300,	100
+		TLC_200_Doors_hood_kamo2,				*,		300,	100		
+		TLC_200_Doors_cargo1,					*,		300,	100
+		TLC_200_Doors_cargo1_blue,				*,		300,	100
+		TLC_200_Doors_cargo1_kamo,				*,		300,	100
+		TLC_200_Doors_cargo1_red,				*,		300,	100
+		TLC_200_Doors_cargo1_white,				*,		300,	100
+		TLC_200_Doors_cargo1_kamo2,				*,		300,	100
+		TLC_200_Doors_cargo2,					*,		300,	100
+		TLC_200_Doors_cargo2_blue,				*,		300,	100
+		TLC_200_Doors_cargo2_kamo,				*,		300,	100
+		TLC_200_Doors_cargo2_red,				*,		300,	100
+		TLC_200_Doors_cargo2_white,				*,		300,	100
+		TLC_200_Doors_cargo2_kamo2,				*,		300,	100
+		TLC_200_Doors_cargo3,					*,		300,	100
+		TLC_200_Doors_cargo3_blue,				*,		300,	100
+		TLC_200_Doors_cargo3_kamo,				*,		300,	100
+		TLC_200_Doors_cargo3_red,				*,		300,	100
+		TLC_200_Doors_cargo3_white,				*,		300,	100
+		TLC_200_Doors_cargo3_kamo2,				*,		300,	100
+		TLC_200_Doors_cargo4,					*,		300,	100
+		TLC_200_Doors_cargo4_blue,				*,		300,	100
+		TLC_200_Doors_cargo4_kamo,				*,		300,	100
+		TLC_200_Doors_cargo4_red,				*,		300,	100
+		TLC_200_Doors_cargo4_white,				*,		300,	100
+		TLC_200_Doors_cargo4_kamo2,				*,		300,	100
+		
+<VehicleParts> Toyota Land Cruiser
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	TLC_200_Doors_Driver
+	TLC_200_Doors_coDriver
+	TLC_200_Doors_hood
+	TLC_200_Doors_cargo1
+	TLC_200_Doors_cargo2
+	TLC_200_Doors_cargo3
+	TLC_200_Doors_cargo4
+	TLC_200_Wheel
+	TLC_200_Wheel
+	TLC_200_Wheel
+	TLC_200_Wheel
+	TLC_200_Wheel
+	TLC_200_Wheel
+	
+<VehicleParts> Toyota Land Cruiser blue
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	TLC_200_Doors_Driver_blue
+	TLC_200_Doors_coDriver_blue
+	TLC_200_Doors_hood_blue
+	TLC_200_Doors_cargo1_blue
+	TLC_200_Doors_cargo2_blue
+	TLC_200_Doors_cargo3_blue
+	TLC_200_Doors_cargo4_blue
+	TLC_200_Wheel
+	TLC_200_Wheel
+	TLC_200_Wheel
+	TLC_200_Wheel
+	TLC_200_Wheel
+	TLC_200_Wheel
+	
+<VehicleParts> Toyota Land Cruiser kamo
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	TLC_200_Doors_Driver_kamo
+	TLC_200_Doors_coDriver_kamo
+	TLC_200_Doors_hood_kamo
+	TLC_200_Doors_cargo1_kamo
+	TLC_200_Doors_cargo2_kamo
+	TLC_200_Doors_cargo3_kamo
+	TLC_200_Doors_cargo4_kamo
+	TLC_200_Wheel
+	TLC_200_Wheel
+	TLC_200_Wheel
+	TLC_200_Wheel
+	TLC_200_Wheel
+	TLC_200_Wheel
+	
+<VehicleParts> Toyota Land Cruiser red
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	TLC_200_Doors_Driver_red
+	TLC_200_Doors_coDriver_red
+	TLC_200_Doors_hood_red
+	TLC_200_Doors_cargo1_red
+	TLC_200_Doors_cargo2_red
+	TLC_200_Doors_cargo3_red
+	TLC_200_Doors_cargo4_red
+	TLC_200_Wheel
+	TLC_200_Wheel
+	TLC_200_Wheel
+	TLC_200_Wheel
+	TLC_200_Wheel
+	TLC_200_Wheel
+
+<VehicleParts> Toyota Land Cruiser white
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	TLC_200_Doors_Driver_white
+	TLC_200_Doors_coDriver_white
+	TLC_200_Doors_hood_white
+	TLC_200_Doors_cargo1_white
+	TLC_200_Doors_cargo2_white
+	TLC_200_Doors_cargo3_white
+	TLC_200_Doors_cargo4_white
+	TLC_200_Wheel
+	TLC_200_Wheel
+	TLC_200_Wheel
+	TLC_200_Wheel
+	TLC_200_Wheel
+	TLC_200_Wheel
+	
+<VehicleParts> Toyota Land Cruiser kamo2
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	TLC_200_Doors_Driver_kamo2
+	TLC_200_Doors_coDriver_kamo2
+	TLC_200_Doors_hood_kamo2
+	TLC_200_Doors_cargo1_kamo2
+	TLC_200_Doors_cargo2_kamo2
+	TLC_200_Doors_cargo3_kamo2
+	TLC_200_Doors_cargo4_kamo2
+	TLC_200_Wheel
+	TLC_200_Wheel
+	TLC_200_Wheel
+	TLC_200_Wheel
+	TLC_200_Wheel
+	TLC_200_Wheel	
