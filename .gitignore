@@ -1,0 +1,20 @@
+@*
+mpmissions/dayzOffline.chernarusplus/storage*
+DayZServer_x64.exe
+dayzsetting.xml
+start_modded.bat
+config/crash*
+steam_api64.dll
+steamclient64.dll
+tier0_s64.dll
+vstdlib_s64.dll
+battleye
+addons/
+config/EventManagerLog
+config/ExpansionMod/Logs
+config/Users/Server/VPPDebugMissions*
+config/VPPAdminTools/Logging
+dayzsetting
+config/VPPAdminTools/Exports
+mpmissions/dayzOffline.chernarusplus -*
+dta

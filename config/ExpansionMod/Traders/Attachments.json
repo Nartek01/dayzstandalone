@@ -1,0 +1,21 @@
+{
+    "m_Version": 10,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS",
+    "TraderIcon": "Scrap Metal",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "Magazines",
+        "Muzzles",
+        "Bayonets",
+        "Optics",
+        "Buttstocks",
+        "Handguards",
+		"REV_Attachments"
+    ],
+    "Items": {
+        "universallight": 1,
+        "tlrlight": 1
+    }
+}
