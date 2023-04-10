@@ -1,3 +1,23 @@
 {
-    "weatherSettings": []
+    "weatherSettings": [
+        {
+            "name": "Day",
+            "overcastActual": [
+                0.5,
+                1.0,
+                1.0
+            ],
+            "rainActual": [
+                0.5,
+                1.0,
+                1.0
+            ],
+            "fogActual": [
+                0.5,
+                1.0,
+                1.0
+            ],
+            "windForceActual": 0.5
+        }
+    ]
 }

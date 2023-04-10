@@ -576,122 +576,37 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Audi_RS6_Doors_coDriver_black",
-            "MaxPriceThreshold": 2000,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Audi_RS6_Doors_cargo1_black",
-            "MaxPriceThreshold": 2000,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Audi_RS6_Doors_cargo2_black",
-            "MaxPriceThreshold": 2000,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Audi_RS6_Doors_hood_black",
-            "MaxPriceThreshold": 2000,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Audi_RS6_Wheel",
-            "MaxPriceThreshold": 2000,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Audi_RS6_Wheel",
-            "MaxPriceThreshold": 2000,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "Audi_RS6_Doors_Driver_black",
+                "Audi_RS6_Doors_coDriver_black",
+                "Audi_RS6_Doors_cargo1_black",
+                "Audi_RS6_Doors_cargo2_black",
+                "Audi_RS6_Doors_hood_black",
+                "Audi_RS6_Doors_trunk_black"
+            ]
         },
         {
             "ClassName": "Audi_RS6_Doors_Driver",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 250,
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "Audi_RS6_Doors_Driver",
+                "Audi_RS6_Doors_coDriver",
+                "Audi_RS6_Doors_cargo1",
+                "Audi_RS6_Doors_cargo2",
+                "Audi_RS6_Doors_hood",
+                "Audi_RS6_Doors_trunk"
+            ]
         },
         {
-            "ClassName": "Audi_RS6_Doors_coDriver",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 250,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Audi_RS6_Doors_cargo1",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 250,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Audi_RS6_Doors_cargo2",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 250,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Audi_RS6_Doors_hood",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 250,
+            "ClassName": "Audi_RS6_Wheel",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

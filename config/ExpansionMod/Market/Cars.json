@@ -169,6 +169,32 @@
             ],
             "Variants": []
         },
+        {"Comment": "@CARS---------------------------------------"},
+        {
+            "ClassName": "DozorB",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 50000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "DozorB_Wheel",
+                "DozorB_Wheel",
+                "DozorB_Wheel",
+                "DozorB_Wheel",
+                "DozorB_Wheel",
+                "DozorB_Doors_Driver",
+                "DozorB_Doors_coDriver",
+                "offroad_02_door_1_2",
+                "offroad_02_door_2_2",
+                "carbattery",
+                "glowplug",
+                "headlighth7",
+                "headlighth7"
+            ],
+            "Variants": []
+        },
         {
             "ClassName": "DozorB",
             "MaxPriceThreshold": 100000,
@@ -198,8 +224,8 @@
             "ClassName": "Audi_RS6",
             "MaxPriceThreshold": 100000,
             "MinPriceThreshold": 50000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 400,
+            "SellPricePercent": 33,
+            "MaxStockThreshold": -1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -213,6 +239,7 @@
 				"Audi_RS6_Doors_cargo1",
 				"Audi_RS6_Doors_cargo2",
 				"Audi_RS6_Doors_hood",
+                "Audi_RS6_Doors_trunk",
 				"CarRadiator",
 				"CarBattery",
 				"SparkPlug",
@@ -228,8 +255,8 @@
             "ClassName": "Audi_RS6_black",
             "MaxPriceThreshold": 100000,
             "MinPriceThreshold": 50000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 400,
+            "SellPricePercent": 33,
+            "MaxStockThreshold": -1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
